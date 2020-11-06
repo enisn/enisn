@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enisn" alt="enisn" /> </p>
 
-- 🔭 I’m currently working at **Mobiroller**
-
-- 🌱 I’m currently learning **Everything about .NET**
-
-- 🤝 I’m looking for help with [InputKit IOS](https://github.com/enisn/Xamarin.Forms.InputKit)
-
-- 💬 Ask me about **C#, Advanced .NET**
-
-- 📫 How to reach me **info@enisnecipoglu.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [C# — Sorgular Üzerine Sohbetler](https://medium.com/@enis.necipoglu/c-sorgular-%C3%BCzerine-sohbetler-dbef9b329b4c?source=rss-4c08bf8ed488------2)
