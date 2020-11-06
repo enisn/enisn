@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm enisn</h1>
-<h3 align="center">A backend developer at Mobiroller</h3>
+<h1 align="center">Hi 👋, I'm Enis</h1>
+<h3 align="center">A Backend Developer at Mobiroller</h3>
+
+<h4 align="center"> I ❤ Open-Source</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enisn" alt="enisn" /> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true" alt="enisn" /></p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisn&layout=compact" alt="enisn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true" alt="enisn" /></p>
 
 <p align="center">
 <a href="https://dev.to/enisn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="enisn" height="30" width="30" /></a>
