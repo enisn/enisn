@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [C# — Sorgular Üzerine Sohbetler](https://medium.com/@enis.necipoglu/c-sorgular-%C3%BCzerine-sohbetler-dbef9b329b4c?source=rss-4c08bf8ed488------2)
-- [Kovaryans ve Kontravaryans nedir? — C#](https://medium.com/@enis.necipoglu/kovaryans-ve-kontravaryans-nedir-c-ecd6e0fcbfd6?source=rss-4c08bf8ed488------2)
-- [Never null-check again in C#](https://medium.com/@enis.necipoglu/never-null-check-again-in-c-bd5aae27a48e?source=rss-4c08bf8ed488------2)
-- [Challenge #2 — Binding object to string — Deep Dive into Reflection](https://medium.com/@enis.necipoglu/challenge-2-binding-object-to-string-deep-dive-into-reflection-b3ecbaadeff6?source=rss-4c08bf8ed488------2)
+- [How to develop a NuGet Package?](https://medium.com/@enisn/how-to-develop-a-nuget-package-d37400d9e1d3?source=rss-4c08bf8ed488------2)
+- [C# — Sorgular Üzerine Sohbetler](https://medium.com/@enisn/c-sorgular-%C3%BCzerine-sohbetler-dbef9b329b4c?source=rss-4c08bf8ed488------2)
+- [Kovaryans ve Kontravaryans nedir? — C#](https://medium.com/@enisn/kovaryans-ve-kontravaryans-nedir-c-ecd6e0fcbfd6?source=rss-4c08bf8ed488------2)
+- [Never null-check again in C#](https://medium.com/@enisn/never-null-check-again-in-c-bd5aae27a48e?source=rss-4c08bf8ed488------2)
 <!-- BLOG-POST-LIST:END -->
 
 
