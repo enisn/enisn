@@ -5,9 +5,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enisn" alt="enisn" /> </p>
 
+<!--
 <center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true" alt="enisn" /></p>
 </center>
+-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
