@@ -15,6 +15,16 @@
 
 <hr />
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🎉 Merged PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🎉 Merged PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+<!--END_SECTION:activity-->
+
 <p align="center">
 <a href="https://dev.to/enisn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="enisn" height="30" width="30" /></a>
 <a href="https://twitter.com/enisnecipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enisnecipoglu" height="30" width="30" /></a>
