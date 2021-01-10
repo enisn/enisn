@@ -18,11 +18,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2338](https://github.com/webpack/webpack-cli/pull/2338) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 💪 Opened PR [#2335](https://github.com/webpack/webpack-cli/pull/2335) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-4. 💪 Opened PR [#2327](https://github.com/webpack/webpack-cli/pull/2327) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 🎉 Merged PR [#2319](https://github.com/webpack/webpack-cli/pull/2319) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+1. 💪 Opened PR [#7103](https://github.com/abpframework/abp/pull/7103) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Closed issue [#6845](https://github.com/abpframework/abp/issues/6845) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#6845](https://github.com/abpframework/abp/issues/6845) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#7085](https://github.com/abpframework/abp/pull/7085) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#7056](https://github.com/abpframework/abp/pull/7056) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 <p align="center">
