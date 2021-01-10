@@ -15,6 +15,16 @@
 
 <hr />
 
+<p align="center">
+<a href="https://dev.to/enisn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="enisn" height="30" width="30" /></a>
+<a href="https://twitter.com/enisnecipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enisnecipoglu" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/7200126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7200126" height="30" width="30" /></a>
+<a href="https://instagram.com/enisnecipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="enisnecipoglu" height="30" width="30" /></a>
+<a href="https://medium.com/@enis.necipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enis.necipoglu" height="30" width="30" /></a>
+</p>
+
+<hr />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -24,11 +34,3 @@
 4. 💪 Opened PR [#7085](https://github.com/abpframework/abp/pull/7085) in [abpframework/abp](https://github.com/abpframework/abp)
 5. 🎉 Merged PR [#7056](https://github.com/abpframework/abp/pull/7056) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
-
-<p align="center">
-<a href="https://dev.to/enisn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="enisn" height="30" width="30" /></a>
-<a href="https://twitter.com/enisnecipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enisnecipoglu" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/7200126" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7200126" height="30" width="30" /></a>
-<a href="https://instagram.com/enisnecipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="enisnecipoglu" height="30" width="30" /></a>
-<a href="https://medium.com/@enis.necipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enis.necipoglu" height="30" width="30" /></a>
-</p>
