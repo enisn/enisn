@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/xleon/I18N-Portable/issues/55) in [xleon/I18N-Portable](https://github.com/xleon/I18N-Portable)
-2. 💪 Opened PR [#56](https://github.com/xleon/I18N-Portable/pull/56) in [xleon/I18N-Portable](https://github.com/xleon/I18N-Portable)
-3. 🎉 Merged PR [#208](https://github.com/enisn/Xamarin.Forms.InputKit/pull/208) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. 🗣 Commented on [#208](https://github.com/enisn/Xamarin.Forms.InputKit/issues/208) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 💪 Opened PR [#7596](https://github.com/abpframework/abp/pull/7596) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Opened issue [#7696](https://github.com/abpframework/abp/issues/7696) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#55](https://github.com/xleon/I18N-Portable/issues/55) in [xleon/I18N-Portable](https://github.com/xleon/I18N-Portable)
+3. 💪 Opened PR [#56](https://github.com/xleon/I18N-Portable/pull/56) in [xleon/I18N-Portable](https://github.com/xleon/I18N-Portable)
+4. 🎉 Merged PR [#208](https://github.com/enisn/Xamarin.Forms.InputKit/pull/208) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. 🗣 Commented on [#208](https://github.com/enisn/Xamarin.Forms.InputKit/issues/208) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
