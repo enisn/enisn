@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7747](https://github.com/abpframework/abp/issues/7747) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#7765](https://github.com/abpframework/abp/issues/7765) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#7762](https://github.com/abpframework/abp/issues/7762) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#7763](https://github.com/abpframework/abp/pull/7763) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Opened issue [#57](https://github.com/xleon/I18N-Portable/issues/57) in [xleon/I18N-Portable](https://github.com/xleon/I18N-Portable)
+1. 💪 Opened PR [#67](https://github.com/furkandeveloper/EasyProfiler/pull/67) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+2. 🗣 Commented on [#7747](https://github.com/abpframework/abp/issues/7747) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#7765](https://github.com/abpframework/abp/issues/7765) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#7762](https://github.com/abpframework/abp/issues/7762) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#7763](https://github.com/abpframework/abp/pull/7763) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
