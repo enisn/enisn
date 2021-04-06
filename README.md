@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
-2. 💪 Opened PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
-3. 💪 Opened PR [#23](https://github.com/enisn/AutoFilterer/pull/23) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. 💪 Opened PR [#8440](https://github.com/abpframework/abp/pull/8440) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#8401](https://github.com/abpframework/abp/pull/8401) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Opened issue [#24](https://github.com/enisn/AutoFilterer/issues/24) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 🎉 Merged PR [#23](https://github.com/enisn/AutoFilterer/pull/23) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+3. 🎉 Merged PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
+4. 💪 Opened PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
+5. 💪 Opened PR [#23](https://github.com/enisn/AutoFilterer/pull/23) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
