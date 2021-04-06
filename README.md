@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/enisn/AutoFilterer/issues/24) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-2. 🎉 Merged PR [#23](https://github.com/enisn/AutoFilterer/pull/23) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. 🎉 Merged PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
-4. 💪 Opened PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
-5. 💪 Opened PR [#23](https://github.com/enisn/AutoFilterer/pull/23) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🗣 Commented on [#205](https://github.com/enisn/Xamarin.Forms.InputKit/issues/205) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. ❗️ Opened issue [#212](https://github.com/enisn/Xamarin.Forms.InputKit/issues/212) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. ❗️ Opened issue [#24](https://github.com/enisn/AutoFilterer/issues/24) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. 🎉 Merged PR [#23](https://github.com/enisn/AutoFilterer/pull/23) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+5. 🎉 Merged PR [#1](https://github.com/enisn/Xamarin.Forms.Plainer/pull/1) in [enisn/Xamarin.Forms.Plainer](https://github.com/enisn/Xamarin.Forms.Plainer)
 <!--END_SECTION:activity-->
