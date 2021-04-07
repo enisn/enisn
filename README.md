@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#212](https://github.com/enisn/Xamarin.Forms.InputKit/issues/212) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. 🎉 Merged PR [#214](https://github.com/enisn/Xamarin.Forms.InputKit/pull/214) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. 💪 Opened PR [#214](https://github.com/enisn/Xamarin.Forms.InputKit/pull/214) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. ❗️ Closed issue [#180](https://github.com/enisn/Xamarin.Forms.InputKit/issues/180) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 🎉 Merged PR [#213](https://github.com/enisn/Xamarin.Forms.InputKit/pull/213) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. ❗️ Opened issue [#19](https://github.com/enisn/Xamarin.Forms.Contacts/issues/19) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
+2. 🎉 Merged PR [#17](https://github.com/enisn/Xamarin.Forms.Contacts/pull/17) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
+3. ❗️ Opened issue [#18](https://github.com/enisn/Xamarin.Forms.Contacts/issues/18) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
+4. 🗣 Commented on [#15](https://github.com/enisn/Xamarin.Forms.Contacts/issues/15) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
+5. ❗️ Closed issue [#212](https://github.com/enisn/Xamarin.Forms.InputKit/issues/212) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
