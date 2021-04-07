@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/enisn/Xamarin.Forms.Contacts/issues/6) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
-2. ❗️ Opened issue [#8466](https://github.com/abpframework/abp/issues/8466) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#19](https://github.com/enisn/Xamarin.Forms.Contacts/issues/19) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
-4. 🎉 Merged PR [#17](https://github.com/enisn/Xamarin.Forms.Contacts/pull/17) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
-5. ❗️ Opened issue [#18](https://github.com/enisn/Xamarin.Forms.Contacts/issues/18) in [enisn/Xamarin.Forms.Contacts](https://github.com/enisn/Xamarin.Forms.Contacts)
+1. 🗣 Commented on [#8440](https://github.com/abpframework/abp/issues/8440) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#8509](https://github.com/abpframework/abp/pull/8509) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❌ Closed PR [#8508](https://github.com/abpframework/abp/pull/8508) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#8508](https://github.com/abpframework/abp/pull/8508) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❌ Closed PR [#8440](https://github.com/abpframework/abp/pull/8440) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
