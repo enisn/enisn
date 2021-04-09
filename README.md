@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8561](https://github.com/abpframework/abp/issues/8561) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#8509](https://github.com/abpframework/abp/issues/8509) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#8538](https://github.com/abpframework/abp/pull/8538) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Closed issue [#8534](https://github.com/abpframework/abp/issues/8534) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#8535](https://github.com/abpframework/abp/pull/8535) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Closed issue [#24](https://github.com/enisn/AutoFilterer/issues/24) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 🗣 Commented on [#8561](https://github.com/abpframework/abp/issues/8561) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#8509](https://github.com/abpframework/abp/issues/8509) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#8538](https://github.com/abpframework/abp/pull/8538) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Closed issue [#8534](https://github.com/abpframework/abp/issues/8534) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
