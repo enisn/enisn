@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8598](https://github.com/abpframework/abp/pull/8598) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Opened issue [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-3. 💪 Opened PR [#8588](https://github.com/abpframework/abp/pull/8588) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Opened issue [#8587](https://github.com/abpframework/abp/issues/8587) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#8586](https://github.com/abpframework/abp/pull/8586) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#70](https://github.com/furkandeveloper/EasyProfiler/pull/70) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+2. ❗️ Opened issue [#8604](https://github.com/abpframework/abp/issues/8604) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#8598](https://github.com/abpframework/abp/pull/8598) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+5. 💪 Opened PR [#8588](https://github.com/abpframework/abp/pull/8588) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
