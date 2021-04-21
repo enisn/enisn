@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8466](https://github.com/abpframework/abp/issues/8466) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#8702](https://github.com/abpframework/abp/pull/8702) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
-4. 💪 Opened PR [#8663](https://github.com/abpframework/abp/pull/8663) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Closed issue [#8427](https://github.com/abpframework/abp/issues/8427) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#8736](https://github.com/abpframework/abp/pull/8736) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Closed issue [#8466](https://github.com/abpframework/abp/issues/8466) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#8702](https://github.com/abpframework/abp/pull/8702) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#69](https://github.com/furkandeveloper/EasyProfiler/issues/69) in [furkandeveloper/EasyProfiler](https://github.com/furkandeveloper/EasyProfiler)
+5. 💪 Opened PR [#8663](https://github.com/abpframework/abp/pull/8663) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
