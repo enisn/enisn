@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#215](https://github.com/enisn/Xamarin.Forms.InputKit/issues/215) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. 🗣 Commented on [#215](https://github.com/enisn/Xamarin.Forms.InputKit/issues/215) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 🗣 Commented on [#6](https://github.com/enisn/DotNurseInjector/issues/6) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+2. ❗️ Closed issue [#215](https://github.com/enisn/Xamarin.Forms.InputKit/issues/215) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 3. 🗣 Commented on [#215](https://github.com/enisn/Xamarin.Forms.InputKit/issues/215) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 4. 🗣 Commented on [#215](https://github.com/enisn/Xamarin.Forms.InputKit/issues/215) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. ❌ Closed PR [#8663](https://github.com/abpframework/abp/pull/8663) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#215](https://github.com/enisn/Xamarin.Forms.InputKit/issues/215) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
