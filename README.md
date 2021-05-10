@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8861](https://github.com/abpframework/abp/issues/8861) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#8796](https://github.com/abpframework/abp/issues/8796) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#6](https://github.com/enisn/DotNurseInjector/issues/6) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+1. 💪 Opened PR [#7](https://github.com/enisn/DotNurseInjector/pull/7) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+2. 🗣 Commented on [#8861](https://github.com/abpframework/abp/issues/8861) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#8796](https://github.com/abpframework/abp/issues/8796) in [abpframework/abp](https://github.com/abpframework/abp)
 4. 🗣 Commented on [#6](https://github.com/enisn/DotNurseInjector/issues/6) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-5. 💪 Opened PR [#762](https://github.com/thangchung/awesome-dotnet-core/pull/762) in [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
+5. 🗣 Commented on [#6](https://github.com/enisn/DotNurseInjector/issues/6) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 <!--END_SECTION:activity-->
