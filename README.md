@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8976](https://github.com/abpframework/abp/pull/8976) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#7](https://github.com/enisn/DotNurseInjector/pull/7) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-3. 🗣 Commented on [#8861](https://github.com/abpframework/abp/issues/8861) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#8796](https://github.com/abpframework/abp/issues/8796) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#6](https://github.com/enisn/DotNurseInjector/issues/6) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+1. ❗️ Closed issue [#8643](https://github.com/abpframework/abp/issues/8643) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#8976](https://github.com/abpframework/abp/pull/8976) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#7](https://github.com/enisn/DotNurseInjector/pull/7) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+4. 🗣 Commented on [#8861](https://github.com/abpframework/abp/issues/8861) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#8796](https://github.com/abpframework/abp/issues/8796) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
