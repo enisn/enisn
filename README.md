@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/enisn/DotNurseInjector/pull/7) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-2. 🎉 Merged PR [#8993](https://github.com/abpframework/abp/pull/8993) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❌ Closed PR [#6158](https://github.com/abpframework/abp/pull/6158) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Closed issue [#8643](https://github.com/abpframework/abp/issues/8643) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#8976](https://github.com/abpframework/abp/pull/8976) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#9044](https://github.com/abpframework/abp/issues/9044) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#7](https://github.com/enisn/DotNurseInjector/pull/7) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+3. 🎉 Merged PR [#8993](https://github.com/abpframework/abp/pull/8993) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❌ Closed PR [#6158](https://github.com/abpframework/abp/pull/6158) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Closed issue [#8643](https://github.com/abpframework/abp/issues/8643) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
