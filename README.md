@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9044](https://github.com/abpframework/abp/issues/9044) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#9044](https://github.com/abpframework/abp/issues/9044) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Closed issue [#8841](https://github.com/abpframework/abp/issues/8841) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#8860](https://github.com/abpframework/abp/pull/8860) in [abpframework/abp](https://github.com/abpframework/abp)
 3. 🗣 Commented on [#9044](https://github.com/abpframework/abp/issues/9044) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#7](https://github.com/enisn/DotNurseInjector/pull/7) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-5. 🎉 Merged PR [#8993](https://github.com/abpframework/abp/pull/8993) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#9044](https://github.com/abpframework/abp/issues/9044) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#9044](https://github.com/abpframework/abp/issues/9044) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
