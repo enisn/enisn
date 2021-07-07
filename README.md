@@ -29,8 +29,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/devnotcom/devnot-mentor-back-end/issues/21) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
-2. 💪 Opened PR [#29](https://github.com/enisn/AutoFilterer/pull/29) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. 💪 Opened PR [#28](https://github.com/enisn/AutoFilterer/pull/28) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. ❗️ Closed issue [#9475](https://github.com/abpframework/abp/issues/9475) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#9497](https://github.com/abpframework/abp/pull/9497) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#21](https://github.com/devnotcom/devnot-mentor-back-end/issues/21) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
+3. 💪 Opened PR [#29](https://github.com/enisn/AutoFilterer/pull/29) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. 💪 Opened PR [#28](https://github.com/enisn/AutoFilterer/pull/28) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+5. ❗️ Closed issue [#9475](https://github.com/abpframework/abp/issues/9475) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
