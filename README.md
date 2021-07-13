@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9382](https://github.com/abpframework/abp/issues/9382) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#9575](https://github.com/abpframework/abp/pull/9575) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#9575](https://github.com/abpframework/abp/issues/9575) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#34](https://github.com/devnotcom/devnot-mentor-back-end/pull/34) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
-5. 🎉 Merged PR [#29](https://github.com/enisn/AutoFilterer/pull/29) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🗣 Commented on [#9578](https://github.com/abpframework/abp/issues/9578) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#9382](https://github.com/abpframework/abp/issues/9382) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#9575](https://github.com/abpframework/abp/pull/9575) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#9575](https://github.com/abpframework/abp/issues/9575) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#34](https://github.com/devnotcom/devnot-mentor-back-end/pull/34) in [devnotcom/devnot-mentor-back-end](https://github.com/devnotcom/devnot-mentor-back-end)
 <!--END_SECTION:activity-->
