@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9602](https://github.com/abpframework/abp/issues/9602) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#32](https://github.com/enisn/AutoFilterer/pull/32) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. ❗️ Opened issue [#34](https://github.com/enisn/AutoFilterer/issues/34) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. ❗️ Opened issue [#33](https://github.com/enisn/AutoFilterer/issues/33) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-5. 💪 Opened PR [#32](https://github.com/enisn/AutoFilterer/pull/32) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🗣 Commented on [#9601](https://github.com/abpframework/abp/issues/9601) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#9602](https://github.com/abpframework/abp/issues/9602) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#32](https://github.com/enisn/AutoFilterer/pull/32) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. ❗️ Opened issue [#34](https://github.com/enisn/AutoFilterer/issues/34) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+5. ❗️ Opened issue [#33](https://github.com/enisn/AutoFilterer/issues/33) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
