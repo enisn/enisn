@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/drewnoakes/vs-side-scroller/issues/6) in [drewnoakes/vs-side-scroller](https://github.com/drewnoakes/vs-side-scroller)
-2. 🗣 Commented on [#9601](https://github.com/abpframework/abp/issues/9601) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#9602](https://github.com/abpframework/abp/issues/9602) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#32](https://github.com/enisn/AutoFilterer/pull/32) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-5. ❗️ Opened issue [#34](https://github.com/enisn/AutoFilterer/issues/34) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🎉 Merged PR [#31](https://github.com/enisn/AutoFilterer/pull/31) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 🗣 Commented on [#6](https://github.com/drewnoakes/vs-side-scroller/issues/6) in [drewnoakes/vs-side-scroller](https://github.com/drewnoakes/vs-side-scroller)
+3. 🗣 Commented on [#9601](https://github.com/abpframework/abp/issues/9601) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#9602](https://github.com/abpframework/abp/issues/9602) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#32](https://github.com/enisn/AutoFilterer/pull/32) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
