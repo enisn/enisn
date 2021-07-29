@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enis</h1>
-<h3 align="center">A Software Developer at <a href="/volosoft">Volosoft</a></h3>
+<h3 align="center">A Software Developer at <a href="https://volosoft.com/">Volosoft</a></h3>
 
 <h4 align="center"> I ❤ Open-Source</h4>
 
