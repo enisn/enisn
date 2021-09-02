@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true" alt="enisn" />
+<img src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true&count_private=true" alt="enisn" />
 </p>
 
 <hr />
