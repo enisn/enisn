@@ -28,9 +28,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9994](https://github.com/abpframework/abp/pull/9994) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Opened issue [#9993](https://github.com/abpframework/abp/issues/9993) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#1](https://github.com/cotur/abp-module-store/pull/1) in [cotur/abp-module-store](https://github.com/cotur/abp-module-store)
-4. 💪 Opened PR [#9838](https://github.com/abpframework/abp/pull/9838) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#9335](https://github.com/abpframework/abp/issues/9335) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#9995](https://github.com/abpframework/abp/pull/9995) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#9994](https://github.com/abpframework/abp/pull/9994) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Opened issue [#9993](https://github.com/abpframework/abp/issues/9993) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#1](https://github.com/cotur/abp-module-store/pull/1) in [cotur/abp-module-store](https://github.com/cotur/abp-module-store)
+5. 💪 Opened PR [#9838](https://github.com/abpframework/abp/pull/9838) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
