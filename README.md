@@ -25,6 +25,13 @@
 
 <hr />
 
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&redirect=tru">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&cover_image=true&theme=default" />
+  </a>
+</p>
+<hr />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
