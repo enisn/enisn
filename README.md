@@ -26,7 +26,7 @@
 <hr />
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&redirect=tru">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&cover_image=true&theme=default" />
   </a>
 </p>
