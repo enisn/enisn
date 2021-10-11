@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/andrei-m-code/net-core-push-notifications/issues/63) in [andrei-m-code/net-core-push-notifications](https://github.com/andrei-m-code/net-core-push-notifications)
-2. ❗️ Opened issue [#1](https://github.com/borakasmer/ConvertMoneyToTextLira/issues/1) in [borakasmer/ConvertMoneyToTextLira](https://github.com/borakasmer/ConvertMoneyToTextLira)
-3. 🎉 Merged PR [#8](https://github.com/abpframework/eShopOnAbp/pull/8) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-4. 🗣 Commented on [#10263](https://github.com/abpframework/abp/issues/10263) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🎉 Merged PR [#7](https://github.com/abpframework/eShopOnAbp/pull/7) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+1. ❗️ Opened issue [#10284](https://github.com/abpframework/abp/issues/10284) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#63](https://github.com/andrei-m-code/net-core-push-notifications/issues/63) in [andrei-m-code/net-core-push-notifications](https://github.com/andrei-m-code/net-core-push-notifications)
+3. ❗️ Opened issue [#1](https://github.com/borakasmer/ConvertMoneyToTextLira/issues/1) in [borakasmer/ConvertMoneyToTextLira](https://github.com/borakasmer/ConvertMoneyToTextLira)
+4. 🎉 Merged PR [#8](https://github.com/abpframework/eShopOnAbp/pull/8) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. 🗣 Commented on [#10263](https://github.com/abpframework/abp/issues/10263) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
