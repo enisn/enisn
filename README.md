@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10449](https://github.com/abpframework/abp/issues/10449) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#10449](https://github.com/abpframework/abp/issues/10449) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❌ Closed PR [#10450](https://github.com/abpframework/abp/pull/10450) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#10450](https://github.com/abpframework/abp/pull/10450) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#10446](https://github.com/abpframework/abp/issues/10446) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#20](https://github.com/abpframework/eShopOnAbp/pull/20) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+2. ❗️ Closed issue [#10247](https://github.com/abpframework/abp/issues/10247) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#10449](https://github.com/abpframework/abp/issues/10449) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#10449](https://github.com/abpframework/abp/issues/10449) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❌ Closed PR [#10450](https://github.com/abpframework/abp/pull/10450) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
