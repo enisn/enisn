@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
-2. ❗️ Closed issue [#9975](https://github.com/abpframework/abp/issues/9975) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🎉 Merged PR [#10509](https://github.com/abpframework/abp/pull/10509) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#10509](https://github.com/abpframework/abp/issues/10509) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#225](https://github.com/enisn/Xamarin.Forms.InputKit/issues/225) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. ❗️ Opened issue [#10634](https://github.com/abpframework/abp/issues/10634) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Opened issue [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
+3. ❗️ Closed issue [#9975](https://github.com/abpframework/abp/issues/9975) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#10509](https://github.com/abpframework/abp/pull/10509) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#10509](https://github.com/abpframework/abp/issues/10509) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
