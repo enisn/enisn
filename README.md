@@ -35,9 +35,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#225](https://github.com/enisn/Xamarin.Forms.InputKit/pull/225) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. ❗️ Opened issue [#10634](https://github.com/abpframework/abp/issues/10634) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
-4. ❗️ Closed issue [#9975](https://github.com/abpframework/abp/issues/9975) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🎉 Merged PR [#10509](https://github.com/abpframework/abp/pull/10509) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Opened issue [#230](https://github.com/enisn/Xamarin.Forms.InputKit/issues/230) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. ❗️ Opened issue [#229](https://github.com/enisn/Xamarin.Forms.InputKit/issues/229) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. ❗️ Opened issue [#228](https://github.com/enisn/Xamarin.Forms.InputKit/issues/228) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. ❗️ Opened issue [#227](https://github.com/enisn/Xamarin.Forms.InputKit/issues/227) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. ❗️ Opened issue [#226](https://github.com/enisn/Xamarin.Forms.InputKit/issues/226) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
