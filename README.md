@@ -9,7 +9,7 @@
 
 <h5 align="center"> I ❤ Open-Source</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=enisn" alt="enisn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enisn" alt="enisn" height="1" /> </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisn&layout=compact" alt="enisn" height="160" />
@@ -21,6 +21,8 @@
 
 <hr />
 
+<h3 align="center"> Follow me on </h4>
+           
 <p align="center">
 <a href="https://dev.to/enisn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="enisn" height="30" width="30" /></a>
 <a href="https://twitter.com/enisnecipoglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enisnecipoglu" height="30" width="30" /></a>
@@ -31,6 +33,9 @@
 
 <hr />
 
+
+<h3 align="center"> The last song I listened to </h4>
+<p align="center"> <i> (Most probably while coding) </i>
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&cover_image=true&theme=default" />
