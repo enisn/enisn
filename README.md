@@ -52,3 +52,13 @@
 4. 🗣 Commented on [#28](https://github.com/abpframework/eShopOnAbp/issues/28) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 5. ❗️ Closed issue [#10739](https://github.com/abpframework/abp/issues/10739) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
+
+---
+
+<h3 align="center"> Do my projects make your life easier?</h3>
+<p align="center">
+You may consider to show me your interest and keep my motivation high. Buying me a coffee will keep me awake while developing cool projects that make life easier.
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/enisn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
