@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/enisn/DotNurseInjector/pull/12) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-2. 🎉 Merged PR [#11](https://github.com/enisn/DotNurseInjector/pull/11) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-3. 💪 Opened PR [#11](https://github.com/enisn/DotNurseInjector/pull/11) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-4. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-5. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+1. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+2. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+3. 🎉 Merged PR [#12](https://github.com/enisn/DotNurseInjector/pull/12) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+4. 🗣 Commented on [#8](https://github.com/enisn/DotNurseInjector/issues/8) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+5. 💪 Opened PR [#12](https://github.com/enisn/DotNurseInjector/pull/12) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 <!--END_SECTION:activity-->
 
 ---
