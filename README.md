@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/enisn/DotNurseInjector/pull/10) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-2. 💪 Opened PR [#10](https://github.com/enisn/DotNurseInjector/pull/10) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-3. ❗️ Opened issue [#10838](https://github.com/abpframework/abp/issues/10838) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#32](https://github.com/abpframework/eShopOnAbp/pull/32) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. ❗️ Closed issue [#10766](https://github.com/abpframework/abp/issues/10766) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+2. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+3. ❗️ Closed issue [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+4. 🗣 Commented on [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+5. 🎉 Merged PR [#10](https://github.com/enisn/DotNurseInjector/pull/10) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 <!--END_SECTION:activity-->
 
 ---
