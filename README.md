@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+1. 💪 Opened PR [#11](https://github.com/enisn/DotNurseInjector/pull/11) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 2. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-3. ❗️ Closed issue [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-4. 🗣 Commented on [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-5. 🎉 Merged PR [#10](https://github.com/enisn/DotNurseInjector/pull/10) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+3. 🗣 Commented on [#9](https://github.com/enisn/DotNurseInjector/issues/9) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+4. ❗️ Closed issue [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+5. 🗣 Commented on [#5](https://github.com/enisn/DotNurseInjector/issues/5) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 <!--END_SECTION:activity-->
 
 ---
