@@ -12,8 +12,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enisn" alt="enisn" height="1" /> </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisn&layout=compact" alt="enisn" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true&count_private=true" alt="enisn" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisn&layout=compact&theme=radical&count_private=true" alt="enisn" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true&theme=radical&count_private=true" alt="enisn" height="160" />
 </p>
 
 <p align="center">
