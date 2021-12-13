@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/enisn/DotNurseInjector/pull/22) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-2. 💪 Opened PR [#22](https://github.com/enisn/DotNurseInjector/pull/22) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-3. 💪 Opened PR [#21](https://github.com/enisn/DotNurseInjector/pull/21) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-4. 💪 Opened PR [#20](https://github.com/enisn/DotNurseInjector/pull/20) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-5. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+1. 💪 Opened PR [#37](https://github.com/enisn/AutoFilterer/pull/37) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 🎉 Merged PR [#22](https://github.com/enisn/DotNurseInjector/pull/22) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+3. 💪 Opened PR [#22](https://github.com/enisn/DotNurseInjector/pull/22) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+4. 💪 Opened PR [#21](https://github.com/enisn/DotNurseInjector/pull/21) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+5. 💪 Opened PR [#20](https://github.com/enisn/DotNurseInjector/pull/20) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 <!--END_SECTION:activity-->
 
 ---
