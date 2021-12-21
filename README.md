@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10954](https://github.com/abpframework/abp/issues/10954) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#78](https://github.com/volosoft/eventhub/pull/78) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
-3. ❗️ Opened issue [#10948](https://github.com/abpframework/abp/issues/10948) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#73](https://github.com/volosoft/eventhub/issues/73) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
-5. 💪 Opened PR [#38](https://github.com/enisn/AutoFilterer/pull/38) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. ❗️ Closed issue [#10977](https://github.com/abpframework/abp/issues/10977) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#38](https://github.com/abpframework/eShopOnAbp/pull/38) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+3. ❗️ Opened issue [#10954](https://github.com/abpframework/abp/issues/10954) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#78](https://github.com/volosoft/eventhub/pull/78) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
+5. ❗️ Opened issue [#10948](https://github.com/abpframework/abp/issues/10948) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
