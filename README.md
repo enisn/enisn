@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/abpframework/eShopOnAbp/pull/48) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. 🎉 Merged PR [#38](https://github.com/enisn/AutoFilterer/pull/38) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. 🗣 Commented on [#140](https://github.com/enisn/Xamarin.Forms.InputKit/issues/140) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. 💪 Opened PR [#42](https://github.com/abpframework/eShopOnAbp/pull/42) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. 🗣 Commented on [#45](https://github.com/FowApps/IronHook/issues/45) in [FowApps/IronHook](https://github.com/FowApps/IronHook)
+1. ❗️ Opened issue [#39](https://github.com/enisn/AutoFilterer/issues/39) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 💪 Opened PR [#48](https://github.com/abpframework/eShopOnAbp/pull/48) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+3. 🎉 Merged PR [#38](https://github.com/enisn/AutoFilterer/pull/38) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. 🗣 Commented on [#140](https://github.com/enisn/Xamarin.Forms.InputKit/issues/140) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. 💪 Opened PR [#42](https://github.com/abpframework/eShopOnAbp/pull/42) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
