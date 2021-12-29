@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11107](https://github.com/abpframework/abp/issues/11107) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#11094](https://github.com/abpframework/abp/issues/11094) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#39](https://github.com/enisn/AutoFilterer/issues/39) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. 💪 Opened PR [#48](https://github.com/abpframework/eShopOnAbp/pull/48) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. 🎉 Merged PR [#38](https://github.com/enisn/AutoFilterer/pull/38) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🎉 Merged PR [#49](https://github.com/abpframework/eShopOnAbp/pull/49) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+2. ❗️ Closed issue [#11108](https://github.com/abpframework/abp/issues/11108) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Opened issue [#11107](https://github.com/abpframework/abp/issues/11107) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#11094](https://github.com/abpframework/abp/issues/11094) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Opened issue [#39](https://github.com/enisn/AutoFilterer/issues/39) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
 ---
