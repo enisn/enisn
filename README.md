@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11159](https://github.com/abpframework/abp/pull/11159) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Opened issue [#11158](https://github.com/abpframework/abp/issues/11158) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#51](https://github.com/abpframework/eShopOnAbp/pull/51) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-4. ❗️ Closed issue [#39](https://github.com/enisn/AutoFilterer/issues/39) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-5. 🎉 Merged PR [#42](https://github.com/enisn/AutoFilterer/pull/42) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🎉 Merged PR [#24](https://github.com/enisn/DotNurseInjector/pull/24) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+2. 💪 Opened PR [#24](https://github.com/enisn/DotNurseInjector/pull/24) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+3. 💪 Opened PR [#11159](https://github.com/abpframework/abp/pull/11159) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#11158](https://github.com/abpframework/abp/issues/11158) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#51](https://github.com/abpframework/eShopOnAbp/pull/51) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
