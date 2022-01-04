@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10288](https://github.com/abpframework/abp/issues/10288) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#11158](https://github.com/abpframework/abp/issues/11158) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#234](https://github.com/enisn/Xamarin.Forms.InputKit/issues/234) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. 🎉 Merged PR [#24](https://github.com/enisn/DotNurseInjector/pull/24) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-5. 💪 Opened PR [#24](https://github.com/enisn/DotNurseInjector/pull/24) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+1. 💪 Opened PR [#11175](https://github.com/abpframework/abp/pull/11175) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Closed issue [#10288](https://github.com/abpframework/abp/issues/10288) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#11158](https://github.com/abpframework/abp/issues/11158) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#234](https://github.com/enisn/Xamarin.Forms.InputKit/issues/234) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. 🎉 Merged PR [#24](https://github.com/enisn/DotNurseInjector/pull/24) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
 <!--END_SECTION:activity-->
 
 ---
