@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/enisn/AutoFilterer/issues/20) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-2. 💪 Opened PR [#45](https://github.com/dotnet-foundation/wg-maintainers/pull/45) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-3. 🗣 Commented on [#11246](https://github.com/abpframework/abp/issues/11246) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#57](https://github.com/abpframework/eShopOnAbp/pull/57) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. ❗️ Closed issue [#11182](https://github.com/abpframework/abp/issues/11182) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❌ Closed PR [#44](https://github.com/dotnet-foundation/wg-maintainers/pull/44) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+2. 🎉 Merged PR [#47](https://github.com/dotnet-foundation/wg-maintainers/pull/47) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+3. 🗣 Commented on [#20](https://github.com/enisn/AutoFilterer/issues/20) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. 💪 Opened PR [#45](https://github.com/dotnet-foundation/wg-maintainers/pull/45) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+5. 🗣 Commented on [#11246](https://github.com/abpframework/abp/issues/11246) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
