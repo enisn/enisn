@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/abpframework/eShopOnAbp/issues/60) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. 💪 Opened PR [#2827](https://github.com/github/explore/pull/2827) in [github/explore](https://github.com/github/explore)
-3. 💪 Opened PR [#29](https://github.com/IonicaBizau/made-in-turkey/pull/29) in [IonicaBizau/made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
-4. ❌ Closed PR [#44](https://github.com/dotnet-foundation/wg-maintainers/pull/44) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-5. 🎉 Merged PR [#47](https://github.com/dotnet-foundation/wg-maintainers/pull/47) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+1. 🎉 Merged PR [#61](https://github.com/abpframework/eShopOnAbp/pull/61) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+2. 🎉 Merged PR [#60](https://github.com/abpframework/eShopOnAbp/pull/60) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+3. ❗️ Closed issue [#11238](https://github.com/abpframework/abp/issues/11238) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#59](https://github.com/abpframework/eShopOnAbp/pull/59) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. ❗️ Closed issue [#11263](https://github.com/abpframework/abp/issues/11263) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
