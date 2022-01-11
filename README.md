@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/dotnet-foundation/wg-maintainers/pull/44) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-2. 🎉 Merged PR [#47](https://github.com/dotnet-foundation/wg-maintainers/pull/47) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-3. 🗣 Commented on [#20](https://github.com/enisn/AutoFilterer/issues/20) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. 💪 Opened PR [#45](https://github.com/dotnet-foundation/wg-maintainers/pull/45) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-5. 🗣 Commented on [#11246](https://github.com/abpframework/abp/issues/11246) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#2827](https://github.com/github/explore/pull/2827) in [github/explore](https://github.com/github/explore)
+2. 💪 Opened PR [#29](https://github.com/IonicaBizau/made-in-turkey/pull/29) in [IonicaBizau/made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
+3. ❌ Closed PR [#44](https://github.com/dotnet-foundation/wg-maintainers/pull/44) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+4. 🎉 Merged PR [#47](https://github.com/dotnet-foundation/wg-maintainers/pull/47) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+5. 🗣 Commented on [#20](https://github.com/enisn/AutoFilterer/issues/20) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
 ---
