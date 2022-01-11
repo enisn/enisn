@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11246](https://github.com/abpframework/abp/issues/11246) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#57](https://github.com/abpframework/eShopOnAbp/pull/57) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. ❗️ Closed issue [#11182](https://github.com/abpframework/abp/issues/11182) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Opened issue [#41](https://github.com/dotnet-foundation/wg-maintainers/issues/41) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
-5. 🎉 Merged PR [#235](https://github.com/enisn/Xamarin.Forms.InputKit/pull/235) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 💪 Opened PR [#45](https://github.com/dotnet-foundation/wg-maintainers/pull/45) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
+2. 🗣 Commented on [#11246](https://github.com/abpframework/abp/issues/11246) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#57](https://github.com/abpframework/eShopOnAbp/pull/57) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+4. ❗️ Closed issue [#11182](https://github.com/abpframework/abp/issues/11182) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Opened issue [#41](https://github.com/dotnet-foundation/wg-maintainers/issues/41) in [dotnet-foundation/wg-maintainers](https://github.com/dotnet-foundation/wg-maintainers)
 <!--END_SECTION:activity-->
 
 ---
