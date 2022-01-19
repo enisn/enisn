@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11338](https://github.com/abpframework/abp/issues/11338) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#64](https://github.com/abpframework/eShopOnAbp/pull/64) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. ❗️ Opened issue [#11338](https://github.com/abpframework/abp/issues/11338) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#63](https://github.com/abpframework/eShopOnAbp/pull/63) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. 💪 Opened PR [#62](https://github.com/abpframework/eShopOnAbp/pull/62) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+1. 🗣 Commented on [#22](https://github.com/furkandeveloper/EasyCronJob/issues/22) in [furkandeveloper/EasyCronJob](https://github.com/furkandeveloper/EasyCronJob)
+2. ❗️ Closed issue [#11338](https://github.com/abpframework/abp/issues/11338) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#64](https://github.com/abpframework/eShopOnAbp/pull/64) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+4. ❗️ Opened issue [#11338](https://github.com/abpframework/abp/issues/11338) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#63](https://github.com/abpframework/eShopOnAbp/pull/63) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
