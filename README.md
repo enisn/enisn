@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/enisn/AutoFilterer/pull/47) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-2. ❗️ Closed issue [#46](https://github.com/enisn/AutoFilterer/issues/46) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. 🗣 Commented on [#47](https://github.com/enisn/AutoFilterer/issues/47) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. 🗣 Commented on [#46](https://github.com/enisn/AutoFilterer/issues/46) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-5. 🗣 Commented on [#3635](https://github.com/wkhtmltopdf/wkhtmltopdf/issues/3635) in [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)
+1. 🗣 Commented on [#45](https://github.com/enisn/AutoFilterer/issues/45) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 🎉 Merged PR [#47](https://github.com/enisn/AutoFilterer/pull/47) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+3. ❗️ Closed issue [#46](https://github.com/enisn/AutoFilterer/issues/46) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. 🗣 Commented on [#47](https://github.com/enisn/AutoFilterer/issues/47) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+5. 🗣 Commented on [#46](https://github.com/enisn/AutoFilterer/issues/46) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
 ---
