@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/abpio/abp-commercial-docs/pull/168) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 🎉 Merged PR [#77](https://github.com/abpframework/eShopOnAbp/pull/77) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. ❗️ Closed issue [#11434](https://github.com/abpframework/abp/issues/11434) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Opened issue [#13812](https://github.com/desktop/desktop/issues/13812) in [desktop/desktop](https://github.com/desktop/desktop)
-5. ❗️ Closed issue [#11522](https://github.com/abpframework/abp/issues/11522) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
+2. ❗️ Opened issue [#11549](https://github.com/abpframework/abp/issues/11549) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#168](https://github.com/abpio/abp-commercial-docs/pull/168) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+4. 🎉 Merged PR [#77](https://github.com/abpframework/eShopOnAbp/pull/77) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. ❗️ Closed issue [#11434](https://github.com/abpframework/abp/issues/11434) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
