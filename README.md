@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11557](https://github.com/abpframework/abp/pull/11557) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#11555](https://github.com/abpframework/abp/issues/11555) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🎉 Merged PR [#11556](https://github.com/abpframework/abp/pull/11556) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#1086](https://github.com/Megabit/Blazorise/issues/1086) in [Megabit/Blazorise](https://github.com/Megabit/Blazorise)
-5. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
+1. 💪 Opened PR [#11564](https://github.com/abpframework/abp/pull/11564) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❌ Closed PR [#11563](https://github.com/abpframework/abp/pull/11563) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#11563](https://github.com/abpframework/abp/issues/11563) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#11563](https://github.com/abpframework/abp/pull/11563) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#11557](https://github.com/abpframework/abp/pull/11557) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
