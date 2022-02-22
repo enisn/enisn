@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/abpframework/eShopOnAbp/pull/82) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. ❗️ Closed issue [#11648](https://github.com/abpframework/abp/issues/11648) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#3652](https://github.com/files-community/Files/issues/3652) in [files-community/Files](https://github.com/files-community/Files)
-4. 💪 Opened PR [#11652](https://github.com/abpframework/abp/pull/11652) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#8448](https://github.com/files-community/Files/issues/8448) in [files-community/Files](https://github.com/files-community/Files)
+1. 🎉 Merged PR [#136](https://github.com/abpframework/abp-samples/pull/136) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
+2. 💪 Opened PR [#11656](https://github.com/abpframework/abp/pull/11656) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#136](https://github.com/abpframework/abp-samples/pull/136) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
+4. 🎉 Merged PR [#82](https://github.com/abpframework/eShopOnAbp/pull/82) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. ❗️ Closed issue [#11648](https://github.com/abpframework/abp/issues/11648) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
