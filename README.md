@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#136](https://github.com/abpframework/abp-samples/pull/136) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
-2. 💪 Opened PR [#11656](https://github.com/abpframework/abp/pull/11656) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#136](https://github.com/abpframework/abp-samples/pull/136) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
-4. 🎉 Merged PR [#82](https://github.com/abpframework/eShopOnAbp/pull/82) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. ❗️ Closed issue [#11648](https://github.com/abpframework/abp/issues/11648) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#11658](https://github.com/abpframework/abp/issues/11658) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#11658](https://github.com/abpframework/abp/pull/11658) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#136](https://github.com/abpframework/abp-samples/pull/136) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
+4. 💪 Opened PR [#11656](https://github.com/abpframework/abp/pull/11656) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#136](https://github.com/abpframework/abp-samples/pull/136) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
 <!--END_SECTION:activity-->
 
 ---
