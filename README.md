@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11676](https://github.com/abpframework/abp/pull/11676) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#11599](https://github.com/abpframework/abp/issues/11599) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#11663](https://github.com/abpframework/abp/pull/11663) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#11658](https://github.com/abpframework/abp/issues/11658) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#11658](https://github.com/abpframework/abp/pull/11658) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#2](https://github.com/hikalkan/maui-abp-playing/pull/2) in [hikalkan/maui-abp-playing](https://github.com/hikalkan/maui-abp-playing)
+2. 🎉 Merged PR [#11676](https://github.com/abpframework/abp/pull/11676) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#11599](https://github.com/abpframework/abp/issues/11599) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#11663](https://github.com/abpframework/abp/pull/11663) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#11658](https://github.com/abpframework/abp/issues/11658) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
