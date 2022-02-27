@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/abpframework/abp-samples/pull/143) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
-2. 💪 Opened PR [#143](https://github.com/abpframework/abp-samples/pull/143) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
-3. 💪 Opened PR [#11697](https://github.com/abpframework/abp/pull/11697) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#2](https://github.com/hikalkan/maui-abp-playing/pull/2) in [hikalkan/maui-abp-playing](https://github.com/hikalkan/maui-abp-playing)
-5. 🎉 Merged PR [#11676](https://github.com/abpframework/abp/pull/11676) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Closed issue [#11094](https://github.com/abpframework/abp/issues/11094) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#11094](https://github.com/abpframework/abp/issues/11094) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#143](https://github.com/abpframework/abp-samples/pull/143) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
+4. 💪 Opened PR [#143](https://github.com/abpframework/abp-samples/pull/143) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
+5. 💪 Opened PR [#11697](https://github.com/abpframework/abp/pull/11697) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
