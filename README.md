@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11770](https://github.com/abpframework/abp/issues/11770) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#84](https://github.com/abpframework/eShopOnAbp/pull/84) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. 💪 Opened PR [#83](https://github.com/abpframework/eShopOnAbp/pull/83) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-4. ❗️ Opened issue [#11770](https://github.com/abpframework/abp/issues/11770) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Opened issue [#11769](https://github.com/abpframework/abp/issues/11769) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#11649](https://github.com/abpframework/abp/issues/11649) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#11770](https://github.com/abpframework/abp/issues/11770) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#84](https://github.com/abpframework/eShopOnAbp/pull/84) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+4. 💪 Opened PR [#83](https://github.com/abpframework/eShopOnAbp/pull/83) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. ❗️ Opened issue [#11770](https://github.com/abpframework/abp/issues/11770) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
