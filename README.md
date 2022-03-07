@@ -46,10 +46,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11818](https://github.com/abpframework/abp/issues/11818) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#11818](https://github.com/abpframework/abp/issues/11818) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#11818](https://github.com/abpframework/abp/issues/11818) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#11649](https://github.com/abpframework/abp/issues/11649) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#11690](https://github.com/abpframework/abp/issues/11690) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Closed issue [#11818](https://github.com/abpframework/abp/issues/11818) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#11818](https://github.com/abpframework/abp/issues/11818) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#11818](https://github.com/abpframework/abp/issues/11818) in [abpframework/abp](https://github.com/abpframework/abp)
 5. 🗣 Commented on [#11649](https://github.com/abpframework/abp/issues/11649) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
