@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/abpframework/eShopOnAbp/pull/86) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
+1. 🗣 Commented on [#11885](https://github.com/abpframework/abp/issues/11885) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#86](https://github.com/abpframework/eShopOnAbp/pull/86) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 3. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
 4. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
-5. 🗣 Commented on [#86](https://github.com/abpframework/eShopOnAbp/issues/86) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
 <!--END_SECTION:activity-->
 
 ---
