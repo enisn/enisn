@@ -46,10 +46,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11890](https://github.com/abpframework/abp/pull/11890) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#11886](https://github.com/abpframework/abp/issues/11886) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#11886](https://github.com/abpframework/abp/issues/11886) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#11845](https://github.com/abpframework/abp/issues/11845) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#173](https://github.com/abpio/abp-commercial-docs/pull/173) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+2. 💪 Opened PR [#11890](https://github.com/abpframework/abp/pull/11890) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#11886](https://github.com/abpframework/abp/issues/11886) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#11886](https://github.com/abpframework/abp/issues/11886) in [abpframework/abp](https://github.com/abpframework/abp)
 5. 🗣 Commented on [#11845](https://github.com/abpframework/abp/issues/11845) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
