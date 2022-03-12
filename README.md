@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/enisn/Xamarin.Forms.InputKit/pull/241) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. ❗️ Closed issue [#227](https://github.com/enisn/Xamarin.Forms.InputKit/issues/227) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. ❗️ Closed issue [#238](https://github.com/enisn/Xamarin.Forms.InputKit/issues/238) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. 💪 Opened PR [#241](https://github.com/enisn/Xamarin.Forms.InputKit/pull/241) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 🎉 Merged PR [#240](https://github.com/enisn/Xamarin.Forms.InputKit/pull/240) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 💪 Opened PR [#242](https://github.com/enisn/Xamarin.Forms.InputKit/pull/242) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 🗣 Commented on [#3353](https://github.com/dotnet/maui/issues/3353) in [dotnet/maui](https://github.com/dotnet/maui)
+3. 🎉 Merged PR [#241](https://github.com/enisn/Xamarin.Forms.InputKit/pull/241) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. ❗️ Closed issue [#227](https://github.com/enisn/Xamarin.Forms.InputKit/issues/227) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. ❗️ Closed issue [#238](https://github.com/enisn/Xamarin.Forms.InputKit/issues/238) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
