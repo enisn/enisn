@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11937](https://github.com/abpframework/abp/pull/11937) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#11885](https://github.com/abpframework/abp/pull/11885) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#11934](https://github.com/abpframework/abp/issues/11934) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#242](https://github.com/enisn/Xamarin.Forms.InputKit/pull/242) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. ❗️ Closed issue [#243](https://github.com/enisn/Xamarin.Forms.InputKit/issues/243) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 🗣 Commented on [#11916](https://github.com/abpframework/abp/issues/11916) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#11937](https://github.com/abpframework/abp/pull/11937) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#11885](https://github.com/abpframework/abp/pull/11885) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#11934](https://github.com/abpframework/abp/issues/11934) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#242](https://github.com/enisn/Xamarin.Forms.InputKit/pull/242) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
