@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/abpframework/eShopOnAbp/pull/91) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. 💪 Opened PR [#90](https://github.com/abpframework/eShopOnAbp/pull/90) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. ❗️ Closed issue [#8](https://github.com/enisn/DotNurseInjector/issues/8) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
-4. ❗️ Opened issue [#244](https://github.com/enisn/Xamarin.Forms.InputKit/issues/244) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 🗣 Commented on [#11934](https://github.com/abpframework/abp/issues/11934) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#11957](https://github.com/abpframework/abp/pull/11957) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#11940](https://github.com/abpframework/abp/pull/11940) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#11940](https://github.com/abpframework/abp/issues/11940) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#91](https://github.com/abpframework/eShopOnAbp/pull/91) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. 💪 Opened PR [#90](https://github.com/abpframework/eShopOnAbp/pull/90) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
