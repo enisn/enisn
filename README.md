@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/abpframework/eShopOnAbp/pull/94) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. ❌ Closed PR [#93](https://github.com/abpframework/eShopOnAbp/pull/93) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. 💪 Opened PR [#94](https://github.com/abpframework/eShopOnAbp/pull/94) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-4. 💪 Opened PR [#93](https://github.com/abpframework/eShopOnAbp/pull/93) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. 🗣 Commented on [#244](https://github.com/enisn/Xamarin.Forms.InputKit/issues/244) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 🗣 Commented on [#95](https://github.com/abpframework/eShopOnAbp/issues/95) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+2. 🎉 Merged PR [#94](https://github.com/abpframework/eShopOnAbp/pull/94) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+3. ❌ Closed PR [#93](https://github.com/abpframework/eShopOnAbp/pull/93) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+4. 💪 Opened PR [#94](https://github.com/abpframework/eShopOnAbp/pull/94) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. 💪 Opened PR [#93](https://github.com/abpframework/eShopOnAbp/pull/93) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
