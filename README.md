@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12022](https://github.com/abpframework/abp/issues/12022) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Opened issue [#12007](https://github.com/abpframework/abp/issues/12007) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#95](https://github.com/abpframework/eShopOnAbp/issues/95) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-4. 🎉 Merged PR [#94](https://github.com/abpframework/eShopOnAbp/pull/94) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. ❌ Closed PR [#93](https://github.com/abpframework/eShopOnAbp/pull/93) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+1. 🎉 Merged PR [#246](https://github.com/enisn/Xamarin.Forms.InputKit/pull/246) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 💪 Opened PR [#246](https://github.com/enisn/Xamarin.Forms.InputKit/pull/246) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. 🗣 Commented on [#12022](https://github.com/abpframework/abp/issues/12022) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#12007](https://github.com/abpframework/abp/issues/12007) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#95](https://github.com/abpframework/eShopOnAbp/issues/95) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
