@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/abpframework/eShopOnAbp/pull/100) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. 🎉 Merged PR [#251](https://github.com/enisn/Xamarin.Forms.InputKit/pull/251) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. 💪 Opened PR [#251](https://github.com/enisn/Xamarin.Forms.InputKit/pull/251) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. ❗️ Opened issue [#1317](https://github.com/autofac/Autofac/issues/1317) in [autofac/Autofac](https://github.com/autofac/Autofac)
-5. ❗️ Opened issue [#26](https://github.com/enisn/DotNurseInjector/issues/26) in [enisn/DotNurseInjector](https://github.com/enisn/DotNurseInjector)
+1. 🗣 Commented on [#3353](https://github.com/dotnet/maui/issues/3353) in [dotnet/maui](https://github.com/dotnet/maui)
+2. 🎉 Merged PR [#100](https://github.com/abpframework/eShopOnAbp/pull/100) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+3. 🎉 Merged PR [#251](https://github.com/enisn/Xamarin.Forms.InputKit/pull/251) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. 💪 Opened PR [#251](https://github.com/enisn/Xamarin.Forms.InputKit/pull/251) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. ❗️ Opened issue [#1317](https://github.com/autofac/Autofac/issues/1317) in [autofac/Autofac](https://github.com/autofac/Autofac)
 <!--END_SECTION:activity-->
 
 ---
