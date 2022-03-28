@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12048](https://github.com/abpframework/abp/issues/12048) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#11549](https://github.com/abpframework/abp/issues/11549) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#11958](https://github.com/abpframework/abp/issues/11958) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#3353](https://github.com/dotnet/maui/issues/3353) in [dotnet/maui](https://github.com/dotnet/maui)
-5. 🎉 Merged PR [#100](https://github.com/abpframework/eShopOnAbp/pull/100) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+1. 💪 Opened PR [#12096](https://github.com/abpframework/abp/pull/12096) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#12048](https://github.com/abpframework/abp/pull/12048) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#11960](https://github.com/abpframework/abp/issues/11960) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#12048](https://github.com/abpframework/abp/issues/12048) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#11549](https://github.com/abpframework/abp/issues/11549) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
