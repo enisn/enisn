@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/volosoft/eventhub/pull/105) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
-2. 💪 Opened PR [#104](https://github.com/volosoft/eventhub/pull/104) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
-3. 🎉 Merged PR [#12173](https://github.com/abpframework/abp/pull/12173) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Closed issue [#12134](https://github.com/abpframework/abp/issues/12134) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Closed issue [#12211](https://github.com/abpframework/abp/issues/12211) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#12242](https://github.com/abpframework/abp/pull/12242) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#105](https://github.com/volosoft/eventhub/pull/105) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
+3. 💪 Opened PR [#104](https://github.com/volosoft/eventhub/pull/104) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
+4. 🎉 Merged PR [#12173](https://github.com/abpframework/abp/pull/12173) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Closed issue [#12134](https://github.com/abpframework/abp/issues/12134) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
