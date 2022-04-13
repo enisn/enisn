@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12180](https://github.com/abpframework/abp/issues/12180) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#12242](https://github.com/abpframework/abp/pull/12242) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#105](https://github.com/volosoft/eventhub/pull/105) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
-4. 💪 Opened PR [#104](https://github.com/volosoft/eventhub/pull/104) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
-5. 🎉 Merged PR [#12173](https://github.com/abpframework/abp/pull/12173) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#12180](https://github.com/abpframework/abp/issues/12180) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#12242](https://github.com/abpframework/abp/pull/12242) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#105](https://github.com/volosoft/eventhub/pull/105) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
+5. 💪 Opened PR [#104](https://github.com/volosoft/eventhub/pull/104) in [volosoft/eventhub](https://github.com/volosoft/eventhub)
 <!--END_SECTION:activity-->
 
 ---
