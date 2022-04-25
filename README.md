@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#185](https://github.com/abpio/abp-commercial-docs/pull/185) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 💪 Opened PR [#12327](https://github.com/abpframework/abp/pull/12327) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#12326](https://github.com/abpframework/abp/issues/12326) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#12321](https://github.com/abpframework/abp/pull/12321) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#158](https://github.com/abpframework/abp-samples/pull/158) in [abpframework/abp-samples](https://github.com/abpframework/abp-samples)
+1. 💪 Opened PR [#187](https://github.com/abpio/abp-commercial-docs/pull/187) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+2. 💪 Opened PR [#186](https://github.com/abpio/abp-commercial-docs/pull/186) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+3. 💪 Opened PR [#185](https://github.com/abpio/abp-commercial-docs/pull/185) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+4. 💪 Opened PR [#12327](https://github.com/abpframework/abp/pull/12327) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Opened issue [#12326](https://github.com/abpframework/abp/issues/12326) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
