@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12326](https://github.com/abpframework/abp/issues/12326) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#3353](https://github.com/dotnet/maui/issues/3353) in [dotnet/maui](https://github.com/dotnet/maui)
-3. 💪 Opened PR [#187](https://github.com/abpio/abp-commercial-docs/pull/187) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-4. 💪 Opened PR [#186](https://github.com/abpio/abp-commercial-docs/pull/186) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-5. 💪 Opened PR [#185](https://github.com/abpio/abp-commercial-docs/pull/185) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+1. 🗣 Commented on [#12370](https://github.com/abpframework/abp/issues/12370) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 💪 Opened PR [#12370](https://github.com/abpframework/abp/pull/12370) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#12326](https://github.com/abpframework/abp/issues/12326) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#3353](https://github.com/dotnet/maui/issues/3353) in [dotnet/maui](https://github.com/dotnet/maui)
+5. 💪 Opened PR [#187](https://github.com/abpio/abp-commercial-docs/pull/187) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
 <!--END_SECTION:activity-->
 
 ---
