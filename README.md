@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#192](https://github.com/abpio/abp-commercial-docs/pull/192) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 💪 Opened PR [#192](https://github.com/abpio/abp-commercial-docs/pull/192) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-3. 🎉 Merged PR [#191](https://github.com/abpio/abp-commercial-docs/pull/191) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-4. 💪 Opened PR [#191](https://github.com/abpio/abp-commercial-docs/pull/191) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-5. 💪 Opened PR [#189](https://github.com/abpio/abp-commercial-docs/pull/189) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+1. 🎉 Merged PR [#12451](https://github.com/abpframework/abp/pull/12451) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#192](https://github.com/abpio/abp-commercial-docs/pull/192) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+3. 💪 Opened PR [#192](https://github.com/abpio/abp-commercial-docs/pull/192) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+4. 🎉 Merged PR [#191](https://github.com/abpio/abp-commercial-docs/pull/191) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+5. 💪 Opened PR [#191](https://github.com/abpio/abp-commercial-docs/pull/191) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
 <!--END_SECTION:activity-->
 
 ---
