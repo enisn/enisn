@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com/abpio/abp-commercial-docs/pull/194) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 🗣 Commented on [#12487](https://github.com/abpframework/abp/issues/12487) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❌ Closed PR [#12487](https://github.com/abpframework/abp/pull/12487) in [abpframework/abp](https://github.com/abpframework/abp)
-4. ❗️ Opened issue [#12489](https://github.com/abpframework/abp/issues/12489) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#12487](https://github.com/abpframework/abp/pull/12487) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#12508](https://github.com/abpframework/abp/pull/12508) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#194](https://github.com/abpio/abp-commercial-docs/pull/194) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+3. 🗣 Commented on [#12487](https://github.com/abpframework/abp/issues/12487) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❌ Closed PR [#12487](https://github.com/abpframework/abp/pull/12487) in [abpframework/abp](https://github.com/abpframework/abp)
+5. ❗️ Opened issue [#12489](https://github.com/abpframework/abp/issues/12489) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
