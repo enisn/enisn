@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12674](https://github.com/abpframework/abp/pull/12674) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#25892](https://github.com/dotnet/AspNetCore.Docs/issues/25892) in [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs)
-3. 💪 Opened PR [#198](https://github.com/abpio/abp-commercial-docs/pull/198) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-4. 🎉 Merged PR [#12627](https://github.com/abpframework/abp/pull/12627) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🎉 Merged PR [#12622](https://github.com/abpframework/abp/pull/12622) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#12676](https://github.com/abpframework/abp/pull/12676) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#12537](https://github.com/abpframework/abp/issues/12537) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❌ Closed PR [#12537](https://github.com/abpframework/abp/pull/12537) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#12674](https://github.com/abpframework/abp/pull/12674) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#25892](https://github.com/dotnet/AspNetCore.Docs/issues/25892) in [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs)
 <!--END_SECTION:activity-->
 
 ---
