@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12707](https://github.com/abpframework/abp/pull/12707) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#12688](https://github.com/abpframework/abp/pull/12688) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🎉 Merged PR [#199](https://github.com/abpio/abp-commercial-docs/pull/199) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-4. 🎉 Merged PR [#12676](https://github.com/abpframework/abp/pull/12676) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#12537](https://github.com/abpframework/abp/issues/12537) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#12708](https://github.com/abpframework/abp/pull/12708) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#12703](https://github.com/abpframework/abp/pull/12703) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#12707](https://github.com/abpframework/abp/pull/12707) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#12688](https://github.com/abpframework/abp/pull/12688) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#199](https://github.com/abpio/abp-commercial-docs/pull/199) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
 <!--END_SECTION:activity-->
 
 ---
