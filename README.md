@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12511](https://github.com/abpframework/abp/issues/12511) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#12546](https://github.com/abpframework/abp/issues/12546) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🎉 Merged PR [#109](https://github.com/abpframework/eventhub/pull/109) in [abpframework/eventhub](https://github.com/abpframework/eventhub)
-4. 🗣 Commented on [#109](https://github.com/abpframework/eventhub/issues/109) in [abpframework/eventhub](https://github.com/abpframework/eventhub)
-5. 🗣 Commented on [#12692](https://github.com/abpframework/abp/issues/12692) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Opened issue [#252](https://github.com/enisn/Xamarin.Forms.InputKit/issues/252) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 🗣 Commented on [#12511](https://github.com/abpframework/abp/issues/12511) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#12546](https://github.com/abpframework/abp/issues/12546) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#109](https://github.com/abpframework/eventhub/pull/109) in [abpframework/eventhub](https://github.com/abpframework/eventhub)
+5. 🗣 Commented on [#109](https://github.com/abpframework/eventhub/issues/109) in [abpframework/eventhub](https://github.com/abpframework/eventhub)
 <!--END_SECTION:activity-->
 
 ---
