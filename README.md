@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#258](https://github.com/enisn/Xamarin.Forms.InputKit/pull/258) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. ❗️ Closed issue [#245](https://github.com/enisn/Xamarin.Forms.InputKit/issues/245) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. 💪 Opened PR [#258](https://github.com/enisn/Xamarin.Forms.InputKit/pull/258) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. 🎉 Merged PR [#257](https://github.com/enisn/Xamarin.Forms.InputKit/pull/257) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. ❗️ Closed issue [#256](https://github.com/enisn/Xamarin.Forms.InputKit/issues/256) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 🎉 Merged PR [#259](https://github.com/enisn/Xamarin.Forms.InputKit/pull/259) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. ❗️ Closed issue [#230](https://github.com/enisn/Xamarin.Forms.InputKit/issues/230) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. 💪 Opened PR [#259](https://github.com/enisn/Xamarin.Forms.InputKit/pull/259) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. 🎉 Merged PR [#258](https://github.com/enisn/Xamarin.Forms.InputKit/pull/258) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. ❗️ Closed issue [#245](https://github.com/enisn/Xamarin.Forms.InputKit/issues/245) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
