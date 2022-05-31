@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12642](https://github.com/abpframework/abp/issues/12642) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#7507](https://github.com/dotnet/maui/issues/7507) in [dotnet/maui](https://github.com/dotnet/maui)
-3. ❗️ Opened issue [#260](https://github.com/enisn/Xamarin.Forms.InputKit/issues/260) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. ❗️ Closed issue [#233](https://github.com/enisn/Xamarin.Forms.InputKit/issues/233) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. ❗️ Closed issue [#248](https://github.com/enisn/Xamarin.Forms.InputKit/issues/248) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 💪 Opened PR [#12815](https://github.com/abpframework/abp/pull/12815) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#2702](https://github.com/dotnet/maui/issues/2702) in [dotnet/maui](https://github.com/dotnet/maui)
+3. 🗣 Commented on [#12642](https://github.com/abpframework/abp/issues/12642) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#7507](https://github.com/dotnet/maui/issues/7507) in [dotnet/maui](https://github.com/dotnet/maui)
+5. ❗️ Opened issue [#260](https://github.com/enisn/Xamarin.Forms.InputKit/issues/260) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
