@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#208](https://github.com/abpio/abp-commercial-docs/pull/208) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 💪 Opened PR [#12924](https://github.com/abpframework/abp/pull/12924) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#12923](https://github.com/abpframework/abp/issues/12923) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#112](https://github.com/abpframework/eShopOnAbp/pull/112) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-5. ❗️ Closed issue [#11841](https://github.com/abpframework/abp/issues/11841) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#1](https://github.com/enisn/abp-blazor-wasm-to-server/pull/1) in [enisn/abp-blazor-wasm-to-server](https://github.com/enisn/abp-blazor-wasm-to-server)
+2. 💪 Opened PR [#208](https://github.com/abpio/abp-commercial-docs/pull/208) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+3. 💪 Opened PR [#12924](https://github.com/abpframework/abp/pull/12924) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#12923](https://github.com/abpframework/abp/issues/12923) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#112](https://github.com/abpframework/eShopOnAbp/pull/112) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
