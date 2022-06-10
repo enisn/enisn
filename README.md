@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12964](https://github.com/abpframework/abp/issues/12964) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#12866](https://github.com/abpframework/abp/issues/12866) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#12866](https://github.com/abpframework/abp/issues/12866) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#1](https://github.com/enisn/abp-blazor-wasm-to-server/pull/1) in [enisn/abp-blazor-wasm-to-server](https://github.com/enisn/abp-blazor-wasm-to-server)
-5. 💪 Opened PR [#208](https://github.com/abpio/abp-commercial-docs/pull/208) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+1. 🎉 Merged PR [#12963](https://github.com/abpframework/abp/pull/12963) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#12964](https://github.com/abpframework/abp/issues/12964) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#12866](https://github.com/abpframework/abp/issues/12866) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#12866](https://github.com/abpframework/abp/issues/12866) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#1](https://github.com/enisn/abp-blazor-wasm-to-server/pull/1) in [enisn/abp-blazor-wasm-to-server](https://github.com/enisn/abp-blazor-wasm-to-server)
 <!--END_SECTION:activity-->
 
 ---
