@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12987](https://github.com/abpframework/abp/pull/12987) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#3](https://github.com/borakasmer/fuel/pull/3) in [borakasmer/fuel](https://github.com/borakasmer/fuel)
-3. 🎉 Merged PR [#12963](https://github.com/abpframework/abp/pull/12963) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#12964](https://github.com/abpframework/abp/issues/12964) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Closed issue [#12866](https://github.com/abpframework/abp/issues/12866) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#12994](https://github.com/abpframework/abp/pull/12994) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Closed issue [#12772](https://github.com/abpframework/abp/issues/12772) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#12987](https://github.com/abpframework/abp/pull/12987) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#3](https://github.com/borakasmer/fuel/pull/3) in [borakasmer/fuel](https://github.com/borakasmer/fuel)
+5. 🎉 Merged PR [#12963](https://github.com/abpframework/abp/pull/12963) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
