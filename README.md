@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/wkhtmltopdf/qt/issues/48) in [wkhtmltopdf/qt](https://github.com/wkhtmltopdf/qt)
-2. 🗣 Commented on [#12995](https://github.com/abpframework/abp/issues/12995) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#12995](https://github.com/abpframework/abp/issues/12995) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#12964](https://github.com/abpframework/abp/issues/12964) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🎉 Merged PR [#12994](https://github.com/abpframework/abp/pull/12994) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
