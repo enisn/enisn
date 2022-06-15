@@ -46,8 +46,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#7621](https://github.com/dotnet/maui/issues/7621) in [dotnet/maui](https://github.com/dotnet/maui)
+2. 🗣 Commented on [#8044](https://github.com/dotnet/maui/issues/8044) in [dotnet/maui](https://github.com/dotnet/maui)
 3. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
 4. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
 5. 🗣 Commented on [#12978](https://github.com/abpframework/abp/issues/12978) in [abpframework/abp](https://github.com/abpframework/abp)
