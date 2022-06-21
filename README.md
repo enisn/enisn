@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13036](https://github.com/abpframework/abp/issues/13036) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#4](https://github.com/MahmudX/awesome-maui/pull/4) in [MahmudX/awesome-maui](https://github.com/MahmudX/awesome-maui)
-3. 🗣 Commented on [#13005](https://github.com/abpframework/abp/issues/13005) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#12478](https://github.com/abpframework/abp/issues/12478) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#13026](https://github.com/abpframework/abp/pull/13026) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#13036](https://github.com/abpframework/abp/issues/13036) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#4](https://github.com/MahmudX/awesome-maui/pull/4) in [MahmudX/awesome-maui](https://github.com/MahmudX/awesome-maui)
+4. 🗣 Commented on [#13005](https://github.com/abpframework/abp/issues/13005) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#12478](https://github.com/abpframework/abp/issues/12478) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
