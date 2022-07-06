@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13242](https://github.com/abpframework/abp/pull/13242) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#12983](https://github.com/abpframework/abp/issues/12983) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#13232](https://github.com/abpframework/abp/pull/13232) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
-5. 🎉 Merged PR [#13141](https://github.com/abpframework/abp/pull/13141) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#13253](https://github.com/abpframework/abp/pull/13253) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#13242](https://github.com/abpframework/abp/pull/13242) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#12983](https://github.com/abpframework/abp/issues/12983) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#13232](https://github.com/abpframework/abp/pull/13232) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#3410](https://github.com/dotnet/maui/issues/3410) in [dotnet/maui](https://github.com/dotnet/maui)
 <!--END_SECTION:activity-->
 
 ---
