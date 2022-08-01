@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13443](https://github.com/abpframework/abp/issues/13443) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#13494](https://github.com/abpframework/abp/pull/13494) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#13274](https://github.com/abpframework/abp/issues/13274) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#7482](https://github.com/dotnet/maui/issues/7482) in [dotnet/maui](https://github.com/dotnet/maui)
-5. 🗣 Commented on [#1](https://github.com/CoffeeGen/altv-entity-streamers-os/issues/1) in [CoffeeGen/altv-entity-streamers-os](https://github.com/CoffeeGen/altv-entity-streamers-os)
+1. ❌ Closed PR [#13494](https://github.com/abpframework/abp/pull/13494) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#13494](https://github.com/abpframework/abp/issues/13494) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🗣 Commented on [#13443](https://github.com/abpframework/abp/issues/13443) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#13494](https://github.com/abpframework/abp/pull/13494) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#13274](https://github.com/abpframework/abp/issues/13274) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
