@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13707](https://github.com/abpframework/abp/pull/13707) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🗣 Commented on [#13522](https://github.com/abpframework/abp/issues/13522) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#35](https://github.com/IonicaBizau/made-in-turkey/issues/35) in [IonicaBizau/made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
-4. ❗️ Closed issue [#13579](https://github.com/abpframework/abp/issues/13579) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#13657](https://github.com/abpframework/abp/issues/13657) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#13705](https://github.com/abpframework/abp/pull/13705) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#13706](https://github.com/abpframework/abp/issues/13706) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#13707](https://github.com/abpframework/abp/pull/13707) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#13522](https://github.com/abpframework/abp/issues/13522) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#35](https://github.com/IonicaBizau/made-in-turkey/issues/35) in [IonicaBizau/made-in-turkey](https://github.com/IonicaBizau/made-in-turkey)
 <!--END_SECTION:activity-->
 
 ---
