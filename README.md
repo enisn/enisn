@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/enisn/TreeView.Maui/issues/1) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-2. 🎉 Merged PR [#2](https://github.com/enisn/TreeView.Maui/pull/2) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-3. 🗣 Commented on [#1](https://github.com/enisn/TreeView.Maui/issues/1) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+1. 💪 Opened PR [#3](https://github.com/enisn/TreeView.Maui/pull/3) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+2. ❗️ Closed issue [#1](https://github.com/enisn/TreeView.Maui/issues/1) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+3. 🎉 Merged PR [#2](https://github.com/enisn/TreeView.Maui/pull/2) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
 4. 🗣 Commented on [#1](https://github.com/enisn/TreeView.Maui/issues/1) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-5. 💪 Opened PR [#2](https://github.com/enisn/TreeView.Maui/pull/2) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+5. 🗣 Commented on [#1](https://github.com/enisn/TreeView.Maui/issues/1) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
 <!--END_SECTION:activity-->
 
 ---
