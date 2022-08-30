@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/enisn/AutoFilterer/pull/54) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-2. 💪 Opened PR [#54](https://github.com/enisn/AutoFilterer/pull/54) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. 🗣 Commented on [#7482](https://github.com/dotnet/maui/issues/7482) in [dotnet/maui](https://github.com/dotnet/maui)
-4. 🗣 Commented on [#13869](https://github.com/abpframework/abp/issues/13869) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#13861](https://github.com/abpframework/abp/pull/13861) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Closed issue [#50](https://github.com/enisn/Xamarin.Forms.InputKit/issues/50) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 🗣 Commented on [#50](https://github.com/enisn/Xamarin.Forms.InputKit/issues/50) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. ❗️ Closed issue [#140](https://github.com/enisn/Xamarin.Forms.InputKit/issues/140) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. 🗣 Commented on [#140](https://github.com/enisn/Xamarin.Forms.InputKit/issues/140) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. 🎉 Merged PR [#54](https://github.com/enisn/AutoFilterer/pull/54) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
 ---
