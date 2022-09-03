@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/enisn/TreeView.Maui/issues/5) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-2. 🎉 Merged PR [#8](https://github.com/enisn/TreeView.Maui/pull/8) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-3. 💪 Opened PR [#8](https://github.com/enisn/TreeView.Maui/pull/8) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-4. 🎉 Merged PR [#290](https://github.com/enisn/Xamarin.Forms.InputKit/pull/290) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 💪 Opened PR [#290](https://github.com/enisn/Xamarin.Forms.InputKit/pull/290) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+1. 🎉 Merged PR [#10](https://github.com/enisn/TreeView.Maui/pull/10) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+2. 💪 Opened PR [#10](https://github.com/enisn/TreeView.Maui/pull/10) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+3. ❗️ Closed issue [#7](https://github.com/enisn/TreeView.Maui/issues/7) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+4. 🎉 Merged PR [#9](https://github.com/enisn/TreeView.Maui/pull/9) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+5. 💪 Opened PR [#9](https://github.com/enisn/TreeView.Maui/pull/9) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
 <!--END_SECTION:activity-->
 
 ---
