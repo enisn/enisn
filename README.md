@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10208](https://github.com/abpframework/abp/issues/10208) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#13587](https://github.com/abpframework/abp/issues/13587) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#13587](https://github.com/abpframework/abp/issues/13587) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#13](https://github.com/enisn/TreeView.Maui/issues/13) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-5. 🗣 Commented on [#13818](https://github.com/abpframework/abp/issues/13818) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#291](https://github.com/enisn/Xamarin.Forms.InputKit/pull/291) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 💪 Opened PR [#291](https://github.com/enisn/Xamarin.Forms.InputKit/pull/291) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. ❗️ Closed issue [#10208](https://github.com/abpframework/abp/issues/10208) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Closed issue [#13587](https://github.com/abpframework/abp/issues/13587) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#13587](https://github.com/abpframework/abp/issues/13587) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
