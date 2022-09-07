@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/volosoft/lepton-theme/issues/14) in [volosoft/lepton-theme](https://github.com/volosoft/lepton-theme)
-2. ❗️ Opened issue [#5](https://github.com/enisn/UraniumUI/issues/5) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. ❗️ Opened issue [#13942](https://github.com/abpframework/abp/issues/13942) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#249](https://github.com/abpio/abp-commercial-docs/pull/249) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-5. ❗️ Opened issue [#4](https://github.com/enisn/UraniumUI/issues/4) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🎉 Merged PR [#8](https://github.com/enisn/UraniumUI/pull/8) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 💪 Opened PR [#8](https://github.com/enisn/UraniumUI/pull/8) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🎉 Merged PR [#7](https://github.com/enisn/UraniumUI/pull/7) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 💪 Opened PR [#7](https://github.com/enisn/UraniumUI/pull/7) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🎉 Merged PR [#6](https://github.com/enisn/UraniumUI/pull/6) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
