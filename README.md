@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-2. 💪 Opened PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-3. 🎉 Merged PR [#12](https://github.com/enisn/UraniumUI/pull/12) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 💪 Opened PR [#12](https://github.com/enisn/UraniumUI/pull/12) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🎉 Merged PR [#11](https://github.com/enisn/UraniumUI/pull/11) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. ❗️ Closed issue [#155](https://github.com/enisn/Xamarin.Forms.InputKit/issues/155) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 🎉 Merged PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+3. 💪 Opened PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+4. 🎉 Merged PR [#12](https://github.com/enisn/UraniumUI/pull/12) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 💪 Opened PR [#12](https://github.com/enisn/UraniumUI/pull/12) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
