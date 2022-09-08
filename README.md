@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#155](https://github.com/enisn/Xamarin.Forms.InputKit/issues/155) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. 🎉 Merged PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-3. 💪 Opened PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-4. 🎉 Merged PR [#12](https://github.com/enisn/UraniumUI/pull/12) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 💪 Opened PR [#12](https://github.com/enisn/UraniumUI/pull/12) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. ❗️ Opened issue [#297](https://github.com/enisn/Xamarin.Forms.InputKit/issues/297) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. ❗️ Opened issue [#296](https://github.com/enisn/Xamarin.Forms.InputKit/issues/296) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. ❗️ Closed issue [#155](https://github.com/enisn/Xamarin.Forms.InputKit/issues/155) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. 🎉 Merged PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+5. 💪 Opened PR [#16](https://github.com/enisn/TreeView.Maui/pull/16) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
 <!--END_SECTION:activity-->
 
 ---
