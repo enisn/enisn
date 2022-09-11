@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/enisn/UraniumUI/pull/18) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 💪 Opened PR [#18](https://github.com/enisn/UraniumUI/pull/18) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🎉 Merged PR [#17](https://github.com/enisn/UraniumUI/pull/17) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 💪 Opened PR [#17](https://github.com/enisn/UraniumUI/pull/17) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🎉 Merged PR [#16](https://github.com/enisn/UraniumUI/pull/16) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. ❗️ Closed issue [#15](https://github.com/enisn/TreeView.Maui/issues/15) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+2. 🎉 Merged PR [#17](https://github.com/enisn/TreeView.Maui/pull/17) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+3. 🗣 Commented on [#15](https://github.com/enisn/TreeView.Maui/issues/15) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+4. 💪 Opened PR [#17](https://github.com/enisn/TreeView.Maui/pull/17) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+5. 🎉 Merged PR [#18](https://github.com/enisn/UraniumUI/pull/18) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
