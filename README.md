@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10066](https://github.com/dotnet/maui/issues/10066) in [dotnet/maui](https://github.com/dotnet/maui)
-2. 🗣 Commented on [#10079](https://github.com/dotnet/maui/issues/10079) in [dotnet/maui](https://github.com/dotnet/maui)
-3. 💪 Opened PR [#14004](https://github.com/abpframework/abp/pull/14004) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#20](https://github.com/enisn/UraniumUI/pull/20) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 💪 Opened PR [#20](https://github.com/enisn/UraniumUI/pull/20) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🎉 Merged PR [#55](https://github.com/enisn/AutoFilterer/pull/55) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+2. 💪 Opened PR [#55](https://github.com/enisn/AutoFilterer/pull/55) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+3. 🗣 Commented on [#10066](https://github.com/dotnet/maui/issues/10066) in [dotnet/maui](https://github.com/dotnet/maui)
+4. 🗣 Commented on [#10079](https://github.com/dotnet/maui/issues/10079) in [dotnet/maui](https://github.com/dotnet/maui)
+5. 💪 Opened PR [#14004](https://github.com/abpframework/abp/pull/14004) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
