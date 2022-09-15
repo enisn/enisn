@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13818](https://github.com/abpframework/abp/issues/13818) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#254](https://github.com/abpio/abp-commercial-docs/pull/254) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-3. 💪 Opened PR [#254](https://github.com/abpio/abp-commercial-docs/pull/254) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-4. 🎉 Merged PR [#253](https://github.com/abpio/abp-commercial-docs/pull/253) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-5. 🎉 Merged PR [#55](https://github.com/enisn/AutoFilterer/pull/55) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. ❗️ Opened issue [#10138](https://github.com/dotnet/maui/issues/10138) in [dotnet/maui](https://github.com/dotnet/maui)
+2. 🗣 Commented on [#13818](https://github.com/abpframework/abp/issues/13818) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 🎉 Merged PR [#254](https://github.com/abpio/abp-commercial-docs/pull/254) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+4. 💪 Opened PR [#254](https://github.com/abpio/abp-commercial-docs/pull/254) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+5. 🎉 Merged PR [#253](https://github.com/abpio/abp-commercial-docs/pull/253) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
 <!--END_SECTION:activity-->
 
 ---
