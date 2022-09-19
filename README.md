@@ -46,11 +46,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#258](https://github.com/abpio/abp-commercial-docs/pull/258) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 🗣 Commented on [#38](https://github.com/enisn/UraniumUI/issues/38) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 💪 Opened PR [#6](https://github.com/malikmasis/AmongUsPoem/pull/6) in [malikmasis/AmongUsPoem](https://github.com/malikmasis/AmongUsPoem)
-4. 💪 Opened PR [#5](https://github.com/malikmasis/AmongUsPoem/pull/5) in [malikmasis/AmongUsPoem](https://github.com/malikmasis/AmongUsPoem)
-5. 💪 Opened PR [#14060](https://github.com/abpframework/abp/pull/14060) in [abpframework/abp](https://github.com/abpframework/abp)
+1. ❗️ Opened issue [#39](https://github.com/enisn/UraniumUI/issues/39) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#258](https://github.com/abpio/abp-commercial-docs/pull/258) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+3. 🗣 Commented on [#38](https://github.com/enisn/UraniumUI/issues/38) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 💪 Opened PR [#6](https://github.com/malikmasis/AmongUsPoem/pull/6) in [malikmasis/AmongUsPoem](https://github.com/malikmasis/AmongUsPoem)
+5. 💪 Opened PR [#5](https://github.com/malikmasis/AmongUsPoem/pull/5) in [malikmasis/AmongUsPoem](https://github.com/malikmasis/AmongUsPoem)
 <!--END_SECTION:activity-->
 
 ---
