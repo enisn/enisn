@@ -33,6 +33,12 @@
 
 <hr />
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=enisn&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+</p>
+
+<hr />
+
 
 <h3 align="center"> The last song I listened to </h4>
 <p align="center"> <i> (Most probably while coding) </i>
