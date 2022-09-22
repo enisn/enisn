@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/enisn/TreeView.Maui/issues/18) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
-2. 🗣 Commented on [#46](https://github.com/enisn/UraniumUI/issues/46) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🎉 Merged PR [#46](https://github.com/enisn/UraniumUI/pull/46) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 💪 Opened PR [#14100](https://github.com/abpframework/abp/pull/14100) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Closed issue [#14032](https://github.com/abpframework/abp/issues/14032) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#14103](https://github.com/abpframework/abp/pull/14103) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#18](https://github.com/enisn/TreeView.Maui/issues/18) in [enisn/TreeView.Maui](https://github.com/enisn/TreeView.Maui)
+3. 🗣 Commented on [#46](https://github.com/enisn/UraniumUI/issues/46) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🎉 Merged PR [#46](https://github.com/enisn/UraniumUI/pull/46) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 💪 Opened PR [#14100](https://github.com/abpframework/abp/pull/14100) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
