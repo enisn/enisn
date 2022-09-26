@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/enisn/UraniumUI/issues/60) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 🗣 Commented on [#59](https://github.com/enisn/UraniumUI/issues/59) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. ❗️ Opened issue [#59](https://github.com/enisn/UraniumUI/issues/59) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#58](https://github.com/enisn/UraniumUI/issues/58) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. ❗️ Closed issue [#14128](https://github.com/abpframework/abp/issues/14128) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#14142](https://github.com/abpframework/abp/pull/14142) in [abpframework/abp](https://github.com/abpframework/abp)
+2. ❗️ Opened issue [#60](https://github.com/enisn/UraniumUI/issues/60) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🗣 Commented on [#59](https://github.com/enisn/UraniumUI/issues/59) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. ❗️ Opened issue [#59](https://github.com/enisn/UraniumUI/issues/59) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#58](https://github.com/enisn/UraniumUI/issues/58) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
