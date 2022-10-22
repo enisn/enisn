@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](https://github.com/enisn/Xamarin.Forms.InputKit/pull/320) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. 💪 Opened PR [#273](https://github.com/abpio/abp-commercial-docs/pull/273) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-3. 🗣 Commented on [#74](https://github.com/enisn/UraniumUI/issues/74) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🎉 Merged PR [#14402](https://github.com/abpframework/abp/pull/14402) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🎉 Merged PR [#14401](https://github.com/abpframework/abp/pull/14401) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#8873](https://github.com/dotnet/maui/issues/8873) in [dotnet/maui](https://github.com/dotnet/maui)
+2. 💪 Opened PR [#320](https://github.com/enisn/Xamarin.Forms.InputKit/pull/320) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. 💪 Opened PR [#273](https://github.com/abpio/abp-commercial-docs/pull/273) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+4. 🗣 Commented on [#74](https://github.com/enisn/UraniumUI/issues/74) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🎉 Merged PR [#14402](https://github.com/abpframework/abp/pull/14402) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
