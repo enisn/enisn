@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#320](https://github.com/enisn/Xamarin.Forms.InputKit/pull/320) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. 🗣 Commented on [#319](https://github.com/enisn/Xamarin.Forms.InputKit/issues/319) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. 🗣 Commented on [#8873](https://github.com/dotnet/maui/issues/8873) in [dotnet/maui](https://github.com/dotnet/maui)
-4. 💪 Opened PR [#320](https://github.com/enisn/Xamarin.Forms.InputKit/pull/320) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 💪 Opened PR [#273](https://github.com/abpio/abp-commercial-docs/pull/273) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+1. ❗️ Closed issue [#319](https://github.com/enisn/Xamarin.Forms.InputKit/issues/319) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 🎉 Merged PR [#320](https://github.com/enisn/Xamarin.Forms.InputKit/pull/320) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. 🗣 Commented on [#319](https://github.com/enisn/Xamarin.Forms.InputKit/issues/319) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. 🗣 Commented on [#8873](https://github.com/dotnet/maui/issues/8873) in [dotnet/maui](https://github.com/dotnet/maui)
+5. 💪 Opened PR [#320](https://github.com/enisn/Xamarin.Forms.InputKit/pull/320) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
