@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#276](https://github.com/abpio/abp-commercial-docs/pull/276) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 💪 Opened PR [#14471](https://github.com/abpframework/abp/pull/14471) in [abpframework/abp](https://github.com/abpframework/abp)
-3. ❗️ Opened issue [#14470](https://github.com/abpframework/abp/issues/14470) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#275](https://github.com/abpio/abp-commercial-docs/pull/275) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-5. 💪 Opened PR [#14468](https://github.com/abpframework/abp/pull/14468) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#80](https://github.com/enisn/UraniumUI/pull/80) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 💪 Opened PR [#276](https://github.com/abpio/abp-commercial-docs/pull/276) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
+3. 💪 Opened PR [#14471](https://github.com/abpframework/abp/pull/14471) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#14470](https://github.com/abpframework/abp/issues/14470) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#275](https://github.com/abpio/abp-commercial-docs/pull/275) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
 <!--END_SECTION:activity-->
 
 ---
