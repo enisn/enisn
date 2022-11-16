@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14682](https://github.com/abpframework/abp/issues/14682) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❌ Closed PR [#14685](https://github.com/abpframework/abp/pull/14685) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🎉 Merged PR [#14672](https://github.com/abpframework/abp/pull/14672) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#14684](https://github.com/abpframework/abp/pull/14684) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#14685](https://github.com/abpframework/abp/pull/14685) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🗣 Commented on [#14682](https://github.com/abpframework/abp/issues/14682) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❌ Closed PR [#14685](https://github.com/abpframework/abp/pull/14685) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#14672](https://github.com/abpframework/abp/pull/14672) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#14684](https://github.com/abpframework/abp/pull/14684) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
