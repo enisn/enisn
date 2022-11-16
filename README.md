@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14682](https://github.com/abpframework/abp/issues/14682) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 💪 Opened PR [#14692](https://github.com/abpframework/abp/pull/14692) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#14676](https://github.com/abpframework/abp/issues/14676) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#103](https://github.com/enisn/UraniumUI/issues/103) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🗣 Commented on [#14682](https://github.com/abpframework/abp/issues/14682) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#14692](https://github.com/abpframework/abp/pull/14692) in [abpframework/abp](https://github.com/abpframework/abp)
 4. 🗣 Commented on [#14676](https://github.com/abpframework/abp/issues/14676) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 🗣 Commented on [#14682](https://github.com/abpframework/abp/issues/14682) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#14676](https://github.com/abpframework/abp/issues/14676) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
