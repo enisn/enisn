@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/enisn/UraniumUI/pull/107) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 💪 Opened PR [#107](https://github.com/enisn/UraniumUI/pull/107) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🗣 Commented on [#10445](https://github.com/dotnet/maui/issues/10445) in [dotnet/maui](https://github.com/dotnet/maui)
-4. 🗣 Commented on [#82](https://github.com/enisn/UraniumUI/issues/82) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. ❗️ Closed issue [#82](https://github.com/enisn/UraniumUI/issues/82) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 💪 Opened PR [#108](https://github.com/enisn/UraniumUI/pull/108) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#107](https://github.com/enisn/UraniumUI/pull/107) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 💪 Opened PR [#107](https://github.com/enisn/UraniumUI/pull/107) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🗣 Commented on [#10445](https://github.com/dotnet/maui/issues/10445) in [dotnet/maui](https://github.com/dotnet/maui)
+5. 🗣 Commented on [#82](https://github.com/enisn/UraniumUI/issues/82) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
