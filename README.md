@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/enisn/UraniumUI/pull/120) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 💪 Opened PR [#120](https://github.com/enisn/UraniumUI/pull/120) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🗣 Commented on [#119](https://github.com/enisn/UraniumUI/issues/119) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 💪 Opened PR [#119](https://github.com/enisn/UraniumUI/pull/119) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. ❗️ Closed issue [#116](https://github.com/enisn/UraniumUI/issues/116) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. ❗️ Closed issue [#103](https://github.com/enisn/UraniumUI/issues/103) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#119](https://github.com/enisn/UraniumUI/pull/119) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🎉 Merged PR [#120](https://github.com/enisn/UraniumUI/pull/120) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 💪 Opened PR [#120](https://github.com/enisn/UraniumUI/pull/120) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#119](https://github.com/enisn/UraniumUI/issues/119) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
