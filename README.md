@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14870](https://github.com/abpframework/abp/pull/14870) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Opened issue [#14864](https://github.com/abpframework/abp/issues/14864) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#14853](https://github.com/abpframework/abp/issues/14853) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 💪 Opened PR [#14854](https://github.com/abpframework/abp/pull/14854) in [abpframework/abp](https://github.com/abpframework/abp)
-5. 💪 Opened PR [#14853](https://github.com/abpframework/abp/pull/14853) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 💪 Opened PR [#9](https://github.com/MahmudX/awesome-maui/pull/9) in [MahmudX/awesome-maui](https://github.com/MahmudX/awesome-maui)
+2. 💪 Opened PR [#14870](https://github.com/abpframework/abp/pull/14870) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Opened issue [#14864](https://github.com/abpframework/abp/issues/14864) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#14853](https://github.com/abpframework/abp/issues/14853) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 💪 Opened PR [#14854](https://github.com/abpframework/abp/pull/14854) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
