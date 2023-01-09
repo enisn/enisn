@@ -52,10 +52,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#305](https://github.com/abpio/abp-commercial-docs/pull/305) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-2. 🗣 Commented on [#57](https://github.com/enisn/AutoFilterer/issues/57) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🎉 Merged PR [#333](https://github.com/enisn/Xamarin.Forms.InputKit/pull/333) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 💪 Opened PR [#305](https://github.com/abpio/abp-commercial-docs/pull/305) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
 3. 🗣 Commented on [#57](https://github.com/enisn/AutoFilterer/issues/57) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. 🗣 Commented on [#58](https://github.com/enisn/AutoFilterer/issues/58) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+4. 🗣 Commented on [#57](https://github.com/enisn/AutoFilterer/issues/57) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 5. 🗣 Commented on [#58](https://github.com/enisn/AutoFilterer/issues/58) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
