@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/enisn/UraniumUI/pull/196) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 🎉 Merged PR [#195](https://github.com/enisn/UraniumUI/pull/195) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 💪 Opened PR [#195](https://github.com/enisn/UraniumUI/pull/195) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#332](https://github.com/enisn/Xamarin.Forms.InputKit/issues/332) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-5. 🎉 Merged PR [#194](https://github.com/enisn/UraniumUI/pull/194) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🗣 Commented on [#186](https://github.com/enisn/UraniumUI/issues/186) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#196](https://github.com/enisn/UraniumUI/pull/196) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 💪 Opened PR [#196](https://github.com/enisn/UraniumUI/pull/196) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🎉 Merged PR [#195](https://github.com/enisn/UraniumUI/pull/195) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 💪 Opened PR [#195](https://github.com/enisn/UraniumUI/pull/195) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
