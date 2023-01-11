@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#197](https://github.com/enisn/UraniumUI/issues/197) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 🎉 Merged PR [#199](https://github.com/enisn/UraniumUI/pull/199) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🗣 Commented on [#145](https://github.com/enisn/UraniumUI/issues/145) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
-5. 🗣 Commented on [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
+1. 🗣 Commented on [#199](https://github.com/enisn/UraniumUI/issues/199) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🗣 Commented on [#199](https://github.com/enisn/UraniumUI/issues/199) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. ❗️ Closed issue [#197](https://github.com/enisn/UraniumUI/issues/197) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🎉 Merged PR [#199](https://github.com/enisn/UraniumUI/pull/199) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#145](https://github.com/enisn/UraniumUI/issues/145) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
