@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2967](https://github.com/gradio-app/gradio/issues/2967) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
-2. 🗣 Commented on [#186](https://github.com/enisn/UraniumUI/issues/186) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🎉 Merged PR [#196](https://github.com/enisn/UraniumUI/pull/196) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 💪 Opened PR [#196](https://github.com/enisn/UraniumUI/pull/196) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🎉 Merged PR [#195](https://github.com/enisn/UraniumUI/pull/195) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🗣 Commented on [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
+2. ❗️ Opened issue [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
+3. 🗣 Commented on [#198](https://github.com/enisn/UraniumUI/issues/198) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🗣 Commented on [#198](https://github.com/enisn/UraniumUI/issues/198) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#2967](https://github.com/gradio-app/gradio/issues/2967) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
 <!--END_SECTION:activity-->
 
 ---
