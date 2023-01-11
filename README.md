@@ -52,11 +52,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
-2. ❗️ Opened issue [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
-3. 🗣 Commented on [#198](https://github.com/enisn/UraniumUI/issues/198) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#198](https://github.com/enisn/UraniumUI/issues/198) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🗣 Commented on [#2967](https://github.com/gradio-app/gradio/issues/2967) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
+1. 🗣 Commented on [#145](https://github.com/enisn/UraniumUI/issues/145) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🗣 Commented on [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
+3. 🗣 Commented on [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
+4. ❗️ Opened issue [#889](https://github.com/CommunityToolkit/Maui/issues/889) in [CommunityToolkit/Maui](https://github.com/CommunityToolkit/Maui)
+5. 🗣 Commented on [#198](https://github.com/enisn/UraniumUI/issues/198) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
