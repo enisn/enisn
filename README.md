@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/abpframework/eShopOnAbp/issues/163) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-2. ❗️ Closed issue [#163](https://github.com/abpframework/eShopOnAbp/issues/163) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-3. ❗️ Opened issue [#163](https://github.com/abpframework/eShopOnAbp/issues/163) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
-4. 🗣 Commented on [#225](https://github.com/enisn/UraniumUI/issues/225) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🎉 Merged PR [#2](https://github.com/enisn/EnisnSharedLibs/pull/2) in [enisn/EnisnSharedLibs](https://github.com/enisn/EnisnSharedLibs)
+1. 🎉 Merged PR [#227](https://github.com/enisn/UraniumUI/pull/227) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🗣 Commented on [#227](https://github.com/enisn/UraniumUI/issues/227) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🗣 Commented on [#163](https://github.com/abpframework/eShopOnAbp/issues/163) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+4. ❗️ Closed issue [#163](https://github.com/abpframework/eShopOnAbp/issues/163) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
+5. ❗️ Opened issue [#163](https://github.com/abpframework/eShopOnAbp/issues/163) in [abpframework/eShopOnAbp](https://github.com/abpframework/eShopOnAbp)
 <!--END_SECTION:activity-->
 
 ---
