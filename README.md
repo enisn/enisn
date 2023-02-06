@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15608](https://github.com/abpframework/abp/pull/15608) in [abpframework/abp](https://github.com/abpframework/abp)
-2. 🎉 Merged PR [#340](https://github.com/enisn/Xamarin.Forms.InputKit/pull/340) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. 💪 Opened PR [#340](https://github.com/enisn/Xamarin.Forms.InputKit/pull/340) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-4. 🗣 Commented on [#221](https://github.com/enisn/UraniumUI/issues/221) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. ❗️ Closed issue [#221](https://github.com/enisn/UraniumUI/issues/221) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. ❗️ Closed issue [#12118](https://github.com/abpframework/abp/issues/12118) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#15611](https://github.com/abpframework/abp/pull/15611) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#15608](https://github.com/abpframework/abp/pull/15608) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#340](https://github.com/enisn/Xamarin.Forms.InputKit/pull/340) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. 💪 Opened PR [#340](https://github.com/enisn/Xamarin.Forms.InputKit/pull/340) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
