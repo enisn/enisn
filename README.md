@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/enisn/AutoFilterer/issues/62) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-2. 🗣 Commented on [#19](https://github.com/volosoft/lepton-theme/issues/19) in [volosoft/lepton-theme](https://github.com/volosoft/lepton-theme)
-3. 💪 Opened PR [#15670](https://github.com/abpframework/abp/pull/15670) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🎉 Merged PR [#15657](https://github.com/abpframework/abp/pull/15657) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Opened issue [#1](https://github.com/po1ntt/WeatherApi/issues/1) in [po1ntt/WeatherApi](https://github.com/po1ntt/WeatherApi)
+1. 🗣 Commented on [#19](https://github.com/volosoft/lepton-theme/issues/19) in [volosoft/lepton-theme](https://github.com/volosoft/lepton-theme)
+2. 🗣 Commented on [#62](https://github.com/enisn/AutoFilterer/issues/62) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+3. 🗣 Commented on [#19](https://github.com/volosoft/lepton-theme/issues/19) in [volosoft/lepton-theme](https://github.com/volosoft/lepton-theme)
+4. 💪 Opened PR [#15670](https://github.com/abpframework/abp/pull/15670) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🎉 Merged PR [#15657](https://github.com/abpframework/abp/pull/15657) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 ---
