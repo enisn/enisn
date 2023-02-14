@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15689](https://github.com/abpframework/abp/pull/15689) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#15671](https://github.com/abpframework/abp/issues/15671) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🎉 Merged PR [#15687](https://github.com/abpframework/abp/pull/15687) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#19](https://github.com/volosoft/lepton-theme/issues/19) in [volosoft/lepton-theme](https://github.com/volosoft/lepton-theme)
-5. 🗣 Commented on [#62](https://github.com/enisn/AutoFilterer/issues/62) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+1. 🗣 Commented on [#231](https://github.com/enisn/UraniumUI/issues/231) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#15689](https://github.com/abpframework/abp/pull/15689) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#15671](https://github.com/abpframework/abp/issues/15671) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🎉 Merged PR [#15687](https://github.com/abpframework/abp/pull/15687) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#19](https://github.com/volosoft/lepton-theme/issues/19) in [volosoft/lepton-theme](https://github.com/volosoft/lepton-theme)
 <!--END_SECTION:activity-->
 
 ---
