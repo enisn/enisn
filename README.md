@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#266](https://github.com/enisn/UraniumUI/pull/266) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. ❗️ Opened issue [#265](https://github.com/enisn/UraniumUI/issues/265) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🗣 Commented on [#64](https://github.com/enisn/AutoFilterer/issues/64) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. ❗️ Reopened issue [#64](https://github.com/enisn/AutoFilterer/issues/64) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-5. 🗣 Commented on [#257](https://github.com/enisn/UraniumUI/issues/257) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🗣 Commented on [#264](https://github.com/enisn/UraniumUI/issues/264) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#266](https://github.com/enisn/UraniumUI/pull/266) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 💪 Opened PR [#266](https://github.com/enisn/UraniumUI/pull/266) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. ❗️ Opened issue [#265](https://github.com/enisn/UraniumUI/issues/265) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#64](https://github.com/enisn/AutoFilterer/issues/64) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
 ---
