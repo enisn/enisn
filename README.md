@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16088](https://github.com/abpframework/abp/issues/16088) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🗣 Commented on [#66](https://github.com/R-Vaccari/bannerlord-banner-kings/issues/66) in [R-Vaccari/bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings)
 2. 🗣 Commented on [#16088](https://github.com/abpframework/abp/issues/16088) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 💪 Opened PR [#1](https://github.com/RoGreat/RecruitEveryone/pull/1) in [RoGreat/RecruitEveryone](https://github.com/RoGreat/RecruitEveryone)
-4. 🗣 Commented on [#269](https://github.com/enisn/UraniumUI/issues/269) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. ❗️ Closed issue [#269](https://github.com/enisn/UraniumUI/issues/269) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🗣 Commented on [#16088](https://github.com/abpframework/abp/issues/16088) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 💪 Opened PR [#1](https://github.com/RoGreat/RecruitEveryone/pull/1) in [RoGreat/RecruitEveryone](https://github.com/RoGreat/RecruitEveryone)
+5. 🗣 Commented on [#269](https://github.com/enisn/UraniumUI/issues/269) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
