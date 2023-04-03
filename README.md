@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15222](https://github.com/abpframework/abp/issues/15222) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Closed issue [#15393](https://github.com/abpframework/abp/issues/15393) in [abpframework/abp](https://github.com/abpframework/abp)
-3. 🗣 Commented on [#15393](https://github.com/abpframework/abp/issues/15393) in [abpframework/abp](https://github.com/abpframework/abp)
-4. 🗣 Commented on [#273](https://github.com/enisn/UraniumUI/issues/273) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🎉 Merged PR [#268](https://github.com/enisn/UraniumUI/pull/268) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🗣 Commented on [#63](https://github.com/R-Vaccari/bannerlord-banner-kings/issues/63) in [R-Vaccari/bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings)
+2. 🗣 Commented on [#15222](https://github.com/abpframework/abp/issues/15222) in [abpframework/abp](https://github.com/abpframework/abp)
+3. ❗️ Closed issue [#15393](https://github.com/abpframework/abp/issues/15393) in [abpframework/abp](https://github.com/abpframework/abp)
+4. 🗣 Commented on [#15393](https://github.com/abpframework/abp/issues/15393) in [abpframework/abp](https://github.com/abpframework/abp)
+5. 🗣 Commented on [#273](https://github.com/enisn/UraniumUI/issues/273) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
