@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16181](https://github.com/abpframework/abp/pull/16181) in [abpframework/abp](https://github.com/abpframework/abp)
-2. ❗️ Opened issue [#95](https://github.com/R-Vaccari/bannerlord-banner-kings/issues/95) in [R-Vaccari/bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings)
-3. 🗣 Commented on [#63](https://github.com/R-Vaccari/bannerlord-banner-kings/issues/63) in [R-Vaccari/bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings)
-4. 🗣 Commented on [#15222](https://github.com/abpframework/abp/issues/15222) in [abpframework/abp](https://github.com/abpframework/abp)
-5. ❗️ Closed issue [#15393](https://github.com/abpframework/abp/issues/15393) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#16196](https://github.com/abpframework/abp/pull/16196) in [abpframework/abp](https://github.com/abpframework/abp)
+2. 🎉 Merged PR [#16188](https://github.com/abpframework/abp/pull/16188) in [abpframework/abp](https://github.com/abpframework/abp)
+3. 💪 Opened PR [#16181](https://github.com/abpframework/abp/pull/16181) in [abpframework/abp](https://github.com/abpframework/abp)
+4. ❗️ Opened issue [#95](https://github.com/R-Vaccari/bannerlord-banner-kings/issues/95) in [R-Vaccari/bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings)
+5. 🗣 Commented on [#63](https://github.com/R-Vaccari/bannerlord-banner-kings/issues/63) in [R-Vaccari/bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings)
 <!--END_SECTION:activity-->
 
 ---
