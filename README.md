@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#272](https://github.com/enisn/UraniumUI/issues/272) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 🗣 Commented on [#65](https://github.com/enisn/AutoFilterer/issues/65) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-3. 🗣 Commented on [#65](https://github.com/enisn/AutoFilterer/issues/65) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
-4. 💪 Opened PR [#369](https://github.com/abpio/abp-commercial-docs/pull/369) in [abpio/abp-commercial-docs](https://github.com/abpio/abp-commercial-docs)
-5. 🎉 Merged PR [#16197](https://github.com/abpframework/abp/pull/16197) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#272](https://github.com/enisn/UraniumUI/pull/272) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 💪 Opened PR [#275](https://github.com/enisn/UraniumUI/pull/275) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🗣 Commented on [#272](https://github.com/enisn/UraniumUI/issues/272) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🗣 Commented on [#65](https://github.com/enisn/AutoFilterer/issues/65) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
+5. 🗣 Commented on [#65](https://github.com/enisn/AutoFilterer/issues/65) in [enisn/AutoFilterer](https://github.com/enisn/AutoFilterer)
 <!--END_SECTION:activity-->
 
 ---
