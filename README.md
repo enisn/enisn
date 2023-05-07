@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#305](https://github.com/enisn/UraniumUI/pull/305) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 💪 Opened PR [#305](https://github.com/enisn/UraniumUI/pull/305) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🗣 Commented on [#296](https://github.com/enisn/UraniumUI/issues/296) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#303](https://github.com/enisn/UraniumUI/issues/303) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🗣 Commented on [#25](https://github.com/roubachof/Sharpnado.MaterialFrame/issues/25) in [roubachof/Sharpnado.MaterialFrame](https://github.com/roubachof/Sharpnado.MaterialFrame)
+1. 💪 Opened PR [#306](https://github.com/enisn/UraniumUI/pull/306) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🎉 Merged PR [#305](https://github.com/enisn/UraniumUI/pull/305) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 💪 Opened PR [#305](https://github.com/enisn/UraniumUI/pull/305) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🗣 Commented on [#296](https://github.com/enisn/UraniumUI/issues/296) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#303](https://github.com/enisn/UraniumUI/issues/303) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
