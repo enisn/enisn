@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/furkandeveloper/SlugSharp/pull/2) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
-2. 🗣 Commented on [#84](https://github.com/enisn/UraniumUI/issues/84) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. ❗️ Closed issue [#302](https://github.com/enisn/UraniumUI/issues/302) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 💪 Opened PR [#307](https://github.com/enisn/UraniumUI/pull/307) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 💪 Opened PR [#306](https://github.com/enisn/UraniumUI/pull/306) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🗣 Commented on [#348](https://github.com/enisn/Xamarin.Forms.InputKit/issues/348) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 💪 Opened PR [#2](https://github.com/furkandeveloper/SlugSharp/pull/2) in [furkandeveloper/SlugSharp](https://github.com/furkandeveloper/SlugSharp)
+3. 🗣 Commented on [#84](https://github.com/enisn/UraniumUI/issues/84) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. ❗️ Closed issue [#302](https://github.com/enisn/UraniumUI/issues/302) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 💪 Opened PR [#307](https://github.com/enisn/UraniumUI/pull/307) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
