@@ -53,11 +53,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#354](https://github.com/enisn/Xamarin.Forms.InputKit/pull/354) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-2. 💪 Opened PR [#354](https://github.com/enisn/Xamarin.Forms.InputKit/pull/354) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
-3. ❗️ Closed issue [#281](https://github.com/enisn/UraniumUI/issues/281) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#281](https://github.com/enisn/UraniumUI/issues/281) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. 🎉 Merged PR [#325](https://github.com/enisn/UraniumUI/pull/325) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+1. 🎉 Merged PR [#356](https://github.com/enisn/Xamarin.Forms.InputKit/pull/356) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+2. 💪 Opened PR [#356](https://github.com/enisn/Xamarin.Forms.InputKit/pull/356) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+3. 🎉 Merged PR [#355](https://github.com/enisn/Xamarin.Forms.InputKit/pull/355) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+4. 💪 Opened PR [#355](https://github.com/enisn/Xamarin.Forms.InputKit/pull/355) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
+5. 🎉 Merged PR [#354](https://github.com/enisn/Xamarin.Forms.InputKit/pull/354) in [enisn/Xamarin.Forms.InputKit](https://github.com/enisn/Xamarin.Forms.InputKit)
 <!--END_SECTION:activity-->
 
 ---
