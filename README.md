@@ -54,10 +54,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#329](https://github.com/enisn/UraniumUI/issues/329) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-2. 🗣 Commented on [#273](https://github.com/enisn/UraniumUI/issues/273) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-3. 🗣 Commented on [#328](https://github.com/enisn/UraniumUI/issues/328) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-4. 🗣 Commented on [#321](https://github.com/enisn/UraniumUI/issues/321) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
-5. ❗️ Closed issue [#263](https://github.com/enisn/UraniumUI/issues/263) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+2. 🗣 Commented on [#329](https://github.com/enisn/UraniumUI/issues/329) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+3. 🗣 Commented on [#273](https://github.com/enisn/UraniumUI/issues/273) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+4. 🗣 Commented on [#328](https://github.com/enisn/UraniumUI/issues/328) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
+5. 🗣 Commented on [#321](https://github.com/enisn/UraniumUI/issues/321) in [enisn/UraniumUI](https://github.com/enisn/UraniumUI)
 <!--END_SECTION:activity-->
 
 ---
