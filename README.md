@@ -17,9 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=enisn&show_icons=true&theme=tokyonight&count_private=true" alt="enisn" height="160" />
 </p>
 
-<p align="center">
-</p>
-
 <hr />
 
 <h3 align="center"> Follow me on </h4>
