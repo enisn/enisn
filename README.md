@@ -51,7 +51,7 @@
 <p align="center"> <i> (Most probably while coding) </i>
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=enis.necipoglu&cover_image=true&theme=default" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=enis.necipoglu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
   </a>
 </p>
 <hr />
